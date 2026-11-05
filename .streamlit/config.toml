@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#1F6B45"
+backgroundColor = "#F6F8F7"
+secondaryBackgroundColor = "#E9EEEA"
+textColor = "#17231D"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#12202F"
+secondaryBackgroundColor = "#1D3047"
+textColor = "#E6EDE8"
+primaryColor = "#E8B64A"
+
+[server]
+runOnSave = true

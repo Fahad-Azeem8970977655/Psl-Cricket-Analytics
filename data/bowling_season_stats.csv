@@ -1,0 +1,808 @@
+﻿season,player_id,player,team,matches,overs,wickets,runs_conceded,economy,avg,strike_rate,best_figures,source_url,data_quality,notes
+2016,05d74535,Saeed Ajmal,Islamabad United,6,22.0,6,157,7.14,26.17,22.0,3/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,086f5984,Junaid Khan,Peshawar Zalmi,6,24.0,6,178,7.42,29.67,24.0,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,0dc00542,Shahid Afridi,Peshawar Zalmi,9,33.0,9,208,6.3,23.11,22.0,5/7,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,16dfcc19,Umar Gul,Quetta Gladiators,6,21.0,4,179,8.52,44.75,31.5,2/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,195fb6db,Imran Khan (1),Peshawar Zalmi,1,4.0,1,35,8.75,35.0,24.0,1/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,1a772306,Akbar-ur-Rehman,Quetta Gladiators,3,4.0,0,29,7.25,,,0/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,1c790f4f,Rumman Raees,Islamabad United,8,26.5,4,180,6.79,45.0,39.75,1/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,210b05cb,Ehsan Adil,Lahore Qalandars,5,19.83,7,170,8.57,24.29,17.0,4/39,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,211de69f,Azhar Ali,Lahore Qalandars,2,5.0,0,30,6.0,,,0/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,2911de16,Hasan Ali,Peshawar Zalmi,3,11.0,2,75,6.82,37.5,33.0,1/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,29e253dd,Iftikhar Ahmed,Karachi Kings,1,0.33,0,7,21.0,,,0/7,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,3086f7a4,Mohammad Nawaz,Quetta Gladiators,10,35.67,13,234,6.56,18.0,16.46,4/13,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,35205dfc,DR Smith,Islamabad United,3,4.0,0,45,11.25,,,0/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,35f4cf7e,Kamran Ghulam,Islamabad United,1,1.0,0,6,6.0,,,0/6,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,3a0f6df2,Zulfiqar Babar,Quetta Gladiators,10,40.0,9,289,7.22,32.11,26.67,2/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,4329fbb5,SR Watson,Islamabad United,6,14.0,1,117,8.36,117.0,84.0,1/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,5441db8c,Aizaz Cheema,Quetta Gladiators,4,14.0,6,104,7.43,17.33,14.0,2/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,557153ca,KK Cooper,Lahore Qalandars,6,17.0,6,157,9.24,26.17,17.0,3/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,5673a3fc,NL McCullum,Quetta Gladiators,1,3.0,1,24,8.0,24.0,18.0,1/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,574665e2,Mohammad Asghar,Peshawar Zalmi,8,28.0,10,179,6.39,17.9,16.8,3/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,57bd3ecc,Hammad Azam,Lahore Qalandars,1,2.0,0,25,12.5,,,0/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,5af743d0,Sohail Khan,Karachi Kings,5,17.83,4,120,6.73,30.0,26.75,2/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,62af8546,Mohammad Nabi,Quetta Gladiators,8,27.0,4,208,7.7,52.0,40.5,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,64c34cd0,Shoaib Malik,Karachi Kings,4,11.0,1,73,6.64,73.0,66.0,1/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,64d43928,Sohail Tanvir,Karachi Kings,5,15.83,1,112,7.07,112.0,95.0,1/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,68ddabdb,Mohammad Sami,Islamabad United,7,24.67,12,138,5.59,11.5,12.33,5/8,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,6dd8b88c,Usama Mir,Karachi Kings,6,21.0,6,164,7.81,27.33,21.0,2/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,76388dc8,S Badree,Islamabad United,6,23.0,4,158,6.87,39.5,34.5,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,7662cf7a,Bilawal Bhatti,Karachi Kings,1,4.0,2,36,9.0,18.0,12.0,2/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,7ca5e05d,RS Bopara,Karachi Kings,8,18.0,9,121,6.72,13.44,12.0,6/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,7dc35884,Shakib Al Hasan,Karachi Kings,6,19.0,3,141,7.42,47.0,38.0,1/43,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,87e562a9,DJ Bravo,Lahore Qalandars,8,27.0,4,226,8.37,56.5,40.5,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,907d6e58,Aamer Yamin,Peshawar Zalmi,1,3.0,1,21,7.0,21.0,18.0,1/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,99c81226,Zia-ul-Haq,Lahore Qalandars,3,8.0,3,69,8.62,23.0,16.0,2/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,9a158001,Azhar Mahmood,Islamabad United,2,7.0,1,57,8.14,57.0,42.0,1/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,9bab2b81,Ashar Zaidi,Islamabad United,2,8.0,0,59,7.38,,,0/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,9cb8d7a6,Imad Wasim,Karachi Kings,5,14.0,4,109,7.79,27.25,21.0,1/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,9fd3a210,Zafar Gohar,Lahore Qalandars,5,12.33,7,102,8.27,14.57,10.57,4/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,a3a1c7ef,Zohaib Khan,Lahore Qalandars,7,22.0,3,183,8.32,61.0,44.0,2/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,a8e3170f,Mohammad Irfan,Islamabad United,6,21.0,7,155,7.38,22.14,18.0,3/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,addfb70e,SW Tait,Peshawar Zalmi,8,31.0,9,217,7.0,24.11,20.67,2/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,afa78c3a,CS Delport,Lahore Qalandars,5,10.83,4,87,8.03,21.75,16.25,3/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,b3118300,Wahab Riaz,Peshawar Zalmi,8,30.33,13,216,7.12,16.62,14.0,3/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,b8a75ca8,Adnan Rasool,Lahore Qalandars,2,6.0,0,67,11.17,,,0/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,b8eddbdb,Imran Khalid,Islamabad United,8,23.17,9,145,6.26,16.11,15.44,4/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,bbd41817,AD Russell,Islamabad United,10,34.33,16,276,8.04,17.25,12.88,3/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,c03449e0,GD Elliott,Quetta Gladiators,6,22.0,11,134,6.09,12.18,12.0,4/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,c03c6200,DJG Sammy,Peshawar Zalmi,5,10.0,3,87,8.7,29.0,20.0,1/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,cb1a782a,Mir Hamza,Karachi Kings,3,4.83,0,51,10.55,,,0/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,d094e7d1,Abdur Rehman,Peshawar Zalmi,1,3.0,0,28,9.33,,,0/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,db584dad,CH Gayle,Lahore Qalandars,1,1.0,0,5,5.0,,,0/5,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,e174dadd,Mohammad Amir,Karachi Kings,6,22.0,6,140,6.36,23.33,22.0,3/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,ea0cdc12,BAW Mendis,Lahore Qalandars,4,12.0,4,94,7.83,23.5,18.0,3/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2016,eb2d5fe7,Anwar Ali,Quetta Gladiators,9,29.83,9,258,8.65,28.67,19.89,2/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 23 of 24 reported season matches.
+2017,05d74535,Saeed Ajmal,Islamabad United,4,11.67,3,116,9.94,38.67,23.33,1/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,086f5984,Junaid Khan,Peshawar Zalmi,2,8.0,2,101,12.62,50.5,24.0,1/52,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,0dc00542,Shahid Afridi,Peshawar Zalmi,9,28.0,2,189,6.75,94.5,84.0,1/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,0f12f9df,NLTC Perera,Quetta Gladiators,6,17.17,5,155,9.03,31.0,20.6,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,16dfcc19,Umar Gul,Quetta Gladiators,1,4.0,1,34,8.5,34.0,24.0,1/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,1777c020,Fakhar Zaman,Lahore Qalandars,2,2.0,1,5,2.5,5.0,12.0,1/3,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,195fb6db,Imran Khan (1),Peshawar Zalmi,1,4.0,1,42,10.5,42.0,24.0,1/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,1bf9a8ef,Mohammad Irfan (4),Lahore Qalandars,7,20.0,7,185,9.25,26.43,17.14,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,1c790f4f,Rumman Raees,Islamabad United,7,26.17,12,162,6.19,13.5,13.08,4/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,245c97cb,TS Mills,Quetta Gladiators,5,20.0,7,145,7.25,20.71,17.14,3/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,2911de16,Hasan Ali,Peshawar Zalmi,10,36.5,12,260,7.12,21.67,18.25,3/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,29e253dd,Iftikhar Ahmed,Peshawar Zalmi,1,2.0,2,8,4.0,4.0,6.0,2/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,3086f7a4,Mohammad Nawaz,Quetta Gladiators,10,33.0,10,264,8.0,26.4,19.8,3/51,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,3a0f6df2,Zulfiqar Babar,Quetta Gladiators,8,32.0,6,210,6.56,35.0,32.0,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,3fbb43a9,Saad Nasim,Quetta Gladiators,1,1.0,0,9,9.0,,,0/9,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,4329fbb5,SR Watson,Islamabad United,9,23.0,10,209,9.09,20.9,13.8,4/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,486065b3,Hassan Khan,Quetta Gladiators,10,32.67,9,228,6.98,25.33,21.78,2/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,574665e2,Mohammad Asghar,Peshawar Zalmi,7,17.0,8,145,8.53,18.12,12.75,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,5af743d0,Sohail Khan,Karachi Kings,9,31.5,16,240,7.62,15.0,11.81,3/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,64c34cd0,Shoaib Malik,Karachi Kings,5,11.0,3,82,7.45,27.33,22.0,2/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,64d43928,Sohail Tanvir,Lahore Qalandars,8,29.83,10,251,8.41,25.1,17.9,2/47,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,667f678b,Ghulam Mudassar,Lahore Qalandars,1,2.0,0,23,11.5,,,0/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,68ddabdb,Mohammad Sami,Islamabad United,9,31.0,12,216,6.97,18.0,15.5,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,6dd8b88c,Usama Mir,Karachi Kings,8,27.83,12,228,8.19,19.0,13.92,3/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,76388dc8,S Badree,Islamabad United,1,3.0,0,34,11.33,,,0/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,7662cf7a,Bilawal Bhatti,Lahore Qalandars,5,15.17,1,100,6.59,100.0,91.0,1/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,7ca5e05d,RS Bopara,Karachi Kings,3,9.0,0,90,10.0,,,0/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,7dc35884,Shakib Al Hasan,Peshawar Zalmi,4,12.0,5,77,6.42,15.4,14.4,2/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,907d6e58,Aamer Yamin,Lahore Qalandars,3,12.0,4,84,7.0,21.0,18.0,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,9ab63e7b,Mohammad Hafeez,Peshawar Zalmi,6,15.0,7,97,6.47,13.86,12.86,2/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,9cb8d7a6,Imad Wasim,Karachi Kings,10,29.0,8,191,6.59,23.88,21.75,3/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,9d430b40,SP Narine,Lahore Qalandars,8,32.0,10,207,6.47,20.7,19.2,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,9de62878,Shadab Khan,Islamabad United,8,26.0,9,172,6.62,19.11,17.33,3/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,a3a1c7ef,Zohaib Khan,Islamabad United,1,1.0,0,13,13.0,,,0/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,a757b0d8,KA Pollard,Karachi Kings,1,1.17,0,23,19.71,,,0/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,a8e3170f,Mohammad Irfan,Islamabad United,8,30.0,7,210,7.0,30.0,25.71,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,abb7c76c,Abrar Ahmed,Karachi Kings,2,6.0,0,41,6.83,,,0/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,afa78c3a,CS Delport,Lahore Qalandars,1,1.83,1,18,9.82,18.0,11.0,1/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,b3118300,Wahab Riaz,Peshawar Zalmi,9,33.0,15,203,6.15,13.53,13.2,3/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,b8a55852,BB McCullum,Lahore Qalandars,1,1.0,0,13,13.0,,,0/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,b8eddbdb,Imran Khalid,Islamabad United,3,5.0,1,54,10.8,54.0,30.0,1/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,bf1d7d3e,Mahmudullah,Quetta Gladiators,5,14.33,7,111,7.74,15.86,12.29,3/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,c03449e0,GD Elliott,Lahore Qalandars,7,12.0,4,115,9.58,28.75,18.0,4/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,c03c6200,DJG Sammy,Peshawar Zalmi,6,10.0,2,99,9.9,49.5,30.0,1/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,c6a1b1bb,Amad Butt,Islamabad United,3,5.0,1,49,9.8,49.0,30.0,1/9,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,cad00a4d,RR Rossouw,Quetta Gladiators,1,1.0,1,8,8.0,8.0,6.0,1/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,cb1a782a,Mir Hamza,Quetta Gladiators,1,4.0,1,48,12.0,48.0,24.0,1/48,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,e174dadd,Mohammad Amir,Karachi Kings,10,36.33,10,268,7.38,26.8,21.8,3/7,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,e7de4f6b,RR Emrit,Quetta Gladiators,1,4.0,3,30,7.5,10.0,8.0,3/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,e93f608d,Kashif Bhatti,Karachi Kings,1,2.0,0,24,12.0,,,0/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,eb2d5fe7,Anwar Ali,Quetta Gladiators,9,30.0,6,280,9.33,46.67,30.0,2/51,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,f0e722e0,Usman Shinwari,Karachi Kings,8,26.0,6,198,7.62,33.0,26.0,3/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,f2800ef3,Yasir Shah,Lahore Qalandars,8,28.0,9,169,6.04,18.78,18.67,4/7,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2017,ffe699c0,CJ Jordan,Peshawar Zalmi,6,19.0,8,131,6.89,16.38,14.25,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2018,012829ff,JW Hastings,Quetta Gladiators,3,10.0,2,77,7.7,38.5,30.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,086f5984,Junaid Khan,Multan Sultans,7,23.67,7,178,7.52,25.43,20.29,3/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,0a8fce53,Mustafizur Rahman,Lahore Qalandars,5,17.0,4,122,7.18,30.5,25.5,2/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,0dc00542,Shahid Afridi,Karachi Kings,9,33.0,13,208,6.3,16.0,15.23,3/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,0f12f9df,NLTC Perera,Quetta Gladiators,1,2.0,2,24,12.0,12.0,6.0,2/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,16dfcc19,Umar Gul,Multan Sultans,2,8.0,8,50,6.25,6.25,6.0,6/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,1777c020,Fakhar Zaman,Lahore Qalandars,3,5.0,1,32,6.4,32.0,30.0,1/10,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,18fac429,SR Patel,Islamabad United,9,27.0,13,188,6.96,14.46,12.46,4/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,195fb6db,Imran Khan (1),Lahore Qalandars,1,2.67,1,24,9.0,24.0,16.0,1/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,1bf9a8ef,Mohammad Irfan (4),Karachi Kings,10,31.0,12,298,9.61,24.83,15.5,2/44,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,1c790f4f,Rumman Raees,Islamabad United,3,9.83,4,51,5.19,12.75,14.75,3/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,2254ab79,Sarfraz Ahmed,Quetta Gladiators,1,0.67,0,6,9.0,,,0/6,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,245c97cb,TS Mills,Karachi Kings,7,24.5,9,208,8.49,23.11,16.33,2/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,2911de16,Hasan Ali,Peshawar Zalmi,9,35.33,12,284,8.04,23.67,17.67,3/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,2e8994e7,JP Duminy,Islamabad United,3,9.0,1,70,7.78,70.0,54.0,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,3086f7a4,Mohammad Nawaz,Quetta Gladiators,11,36.0,7,196,5.44,28.0,30.86,2/4,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,30afc92b,Salman Irshad,Lahore Qalandars,3,5.0,1,60,12.0,60.0,30.0,1/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,35205dfc,DR Smith,Peshawar Zalmi,3,1.67,0,20,12.0,,,0/12,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,3be224b0,Sameen Gul,Peshawar Zalmi,8,28.0,6,204,7.29,34.0,28.0,2/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,4329fbb5,SR Watson,Quetta Gladiators,10,36.0,11,276,7.67,25.09,19.64,3/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,7,23.67,7,197,8.32,28.14,20.29,5/4,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,486065b3,Hassan Khan,Quetta Gladiators,11,28.0,6,187,6.68,31.17,28.0,1/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,4a461c24,LA Dawson,Peshawar Zalmi,8,29.0,8,242,8.34,30.25,21.75,3/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,4f7279a4,Raza Hasan,Lahore Qalandars,2,5.0,0,47,9.4,,,0/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,51a3c5ef,MJ McClenaghan,Lahore Qalandars,4,16.0,2,142,8.88,71.0,48.0,1/43,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,5574750c,JC Archer,Quetta Gladiators,2,8.0,5,53,6.62,10.6,9.6,3/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,574665e2,Mohammad Asghar,Peshawar Zalmi,5,15.67,2,141,9.0,70.5,47.0,1/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,57bd3ecc,Hammad Azam,Peshawar Zalmi,1,3.17,0,33,10.42,,,0/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,5af743d0,Sohail Khan,Lahore Qalandars,7,25.67,8,226,8.81,28.25,19.25,3/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,64c34cd0,Shoaib Malik,Multan Sultans,6,10.0,3,86,8.6,28.67,20.0,1/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,64d43928,Sohail Tanvir,Multan Sultans,9,32.67,7,250,7.65,35.71,28.0,3/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,68ddabdb,Mohammad Sami,Islamabad United,11,43.67,14,306,7.01,21.86,18.71,3/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,6dd8b88c,Usama Mir,Karachi Kings,2,5.0,0,63,12.6,,,0/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,7ca5e05d,RS Bopara,Karachi Kings,5,10.0,4,101,10.1,25.25,15.0,3/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,89c16049,Agha Salman,Lahore Qalandars,2,2.0,0,13,6.5,,,0/8,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,907d6e58,Aamer Yamin,Lahore Qalandars,2,3.0,0,42,14.0,,,0/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,9cb8d7a6,Imad Wasim,Karachi Kings,7,25.33,5,162,6.39,32.4,30.4,2/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,9d430b40,SP Narine,Lahore Qalandars,9,35.0,11,212,6.06,19.27,19.09,3/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,9de62878,Shadab Khan,Islamabad United,12,44.17,9,289,6.54,32.11,29.44,3/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,9fd3a210,Zafar Gohar,Islamabad United,2,7.0,3,46,6.57,15.33,14.0,3/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a316d663,GC Viljoen,Multan Sultans,2,8.0,3,73,9.12,24.33,16.0,2/49,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a4799701,Danish Aziz,Karachi Kings,1,1.0,0,16,16.0,,,0/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a63775d6,Rahat Ali,Quetta Gladiators,11,42.33,15,322,7.61,21.47,16.93,4/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a6fc52a9,Ibtisam Sheikh,Peshawar Zalmi,4,14.0,5,107,7.64,21.4,16.8,3/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a757b0d8,KA Pollard,Multan Sultans,5,12.83,5,122,9.51,24.4,15.4,3/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a8e3170f,Mohammad Irfan,Multan Sultans,9,36.0,10,228,6.33,22.8,21.6,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,a9da7784,KJ Abbott,Lahore Qalandars,1,3.0,1,25,8.33,25.0,18.0,1/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,aa8d28ae,D Wiese,Karachi Kings,1,3.0,0,33,11.0,,,0/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,acee4cc4,Imran Tahir,Multan Sultans,9,33.0,13,239,7.24,18.38,15.23,3/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,b2a79f17,B Laughlin,Quetta Gladiators,3,10.0,3,79,7.9,26.33,20.0,1/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,b3118300,Wahab Riaz,Peshawar Zalmi,13,49.83,18,344,6.9,19.11,16.61,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,bb4b445b,Hussain Talat,Islamabad United,6,14.0,4,124,8.86,31.0,21.0,2/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,bbd41817,AD Russell,Islamabad United,3,10.0,4,89,8.9,22.25,15.0,2/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,bd4ea627,Faheem Ashraf,Islamabad United,12,40.0,18,310,7.75,17.22,13.33,3/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,bdadf7da,JL Denly,Karachi Kings,1,2.0,0,15,7.5,,,0/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,bf1d7d3e,Mahmudullah,Quetta Gladiators,2,3.0,1,26,8.67,26.0,18.0,1/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,c03c6200,DJG Sammy,Peshawar Zalmi,3,4.67,2,52,11.14,26.0,14.0,2/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,c6a1b1bb,Amad Butt,Islamabad United,5,13.17,5,116,8.81,23.2,15.8,2/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,c995d726,CA Ingram,Karachi Kings,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,cb1a782a,Mir Hamza,Quetta Gladiators,3,11.0,3,95,8.64,31.67,22.0,1/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,ccdd8308,ST Finn,Islamabad United,5,16.0,5,124,7.75,24.8,19.2,3/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,d346d939,RA Whiteley,Multan Sultans,1,3.0,0,45,15.0,,,0/45,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,e174dadd,Mohammad Amir,Karachi Kings,10,36.0,9,243,6.75,27.0,24.0,2/6,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,e5d452d7,Saif Badar,Multan Sultans,1,2.0,1,15,7.5,15.0,12.0,1/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,e9ea5eb5,Khalid Usman,Peshawar Zalmi,1,3.0,1,27,9.0,27.0,18.0,1/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,eb2d5fe7,Anwar Ali,Quetta Gladiators,10,27.67,7,205,7.41,29.29,23.71,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,ed90abe4,AP Devcich,Lahore Qalandars,2,2.0,0,31,15.5,,,0/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,f0e722e0,Usman Shinwari,Karachi Kings,9,32.17,16,258,8.02,16.12,12.06,4/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,f2800ef3,Yasir Shah,Lahore Qalandars,10,38.0,11,275,7.24,25.0,20.73,3/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,f3be8d36,Bilal Asif,Lahore Qalandars,1,2.0,0,19,9.5,,,0/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,f69f1d8a,Umaid Asif,Peshawar Zalmi,12,46.0,13,323,7.02,24.85,21.23,4/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2018,ffe699c0,CJ Jordan,Peshawar Zalmi,5,18.0,5,142,7.89,28.4,21.6,2/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 33 of 34 reported season matches.
+2019,086f5984,Junaid Khan,Multan Sultans,7,26.33,8,228,8.66,28.5,19.75,3/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,0dc00542,Shahid Afridi,Multan Sultans,8,25.67,10,173,6.74,17.3,15.4,2/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,1777c020,Fakhar Zaman,Lahore Qalandars,2,3.0,0,21,7.0,,,0/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,18fac429,SR Patel,Islamabad United,8,26.17,4,191,7.3,47.75,39.25,1/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,19b9f399,CJ Green,Multan Sultans,5,17.0,4,111,6.53,27.75,25.5,3/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,1bf9a8ef,Mohammad Irfan (4),Quetta Gladiators,3,12.0,3,106,8.83,35.33,24.0,2/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,1c790f4f,Rumman Raees,Islamabad United,8,30.33,8,272,8.97,34.0,22.75,3/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,1ff2f550,Sohail Akhtar,Lahore Qalandars,1,0.17,0,0,0.0,,,0/0,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,22ae3041,Fawad Ahmed,Quetta Gladiators,12,45.33,11,298,6.57,27.09,24.73,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,245c97cb,TS Mills,Peshawar Zalmi,5,19.0,7,137,7.21,19.57,16.29,3/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,24bb1c2f,Haris Rauf,Lahore Qalandars,10,36.0,11,267,7.42,24.27,19.64,4/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,26d041c4,Sikandar Raza,Karachi Kings,2,6.0,3,32,5.33,10.67,12.0,2/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,2911de16,Hasan Ali,Peshawar Zalmi,13,50.33,25,341,6.77,13.64,12.08,4/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,29e253dd,Iftikhar Ahmed,Karachi Kings,2,3.0,2,14,4.67,7.0,9.0,2/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,2a2e6343,DT Christian,Multan Sultans,5,10.5,5,113,10.76,22.6,12.6,3/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,3086f7a4,Mohammad Nawaz,Quetta Gladiators,12,46.0,13,350,7.61,26.92,21.23,2/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,32885b08,Mohammad Irfan (5),Multan Sultans,2,5.33,0,68,12.75,,,0/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,35205dfc,DR Smith,Quetta Gladiators,1,0.33,0,6,18.0,,,0/6,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,3a60e0b5,WD Parnell,Islamabad United,2,2.0,0,32,16.0,,,0/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,3be224b0,Sameen Gul,Peshawar Zalmi,7,27.0,10,255,9.44,25.5,16.2,3/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,4329fbb5,SR Watson,Quetta Gladiators,1,1.0,1,10,10.0,10.0,6.0,1/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,8,28.17,10,239,8.49,23.9,16.9,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,486065b3,Hassan Khan,Lahore Qalandars,2,3.0,0,29,9.67,,,0/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,4a461c24,LA Dawson,Peshawar Zalmi,10,23.0,3,167,7.26,55.67,46.0,1/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,4ec07775,RN ten Doeschate,Lahore Qalandars,1,1.67,1,9,5.4,9.0,10.0,1/9,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,5441db8c,Aizaz Cheema,Lahore Qalandars,1,3.0,0,32,10.67,,,0/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,54c58a5e,Nauman Ali,Multan Sultans,4,11.0,2,87,7.91,43.5,33.0,2/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,5af743d0,Sohail Khan,Karachi Kings,5,18.0,2,192,10.67,96.0,54.0,2/57,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,5c88fab9,Awais Zia,Karachi Kings,1,0.17,0,4,24.0,,,0/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,64c34cd0,Shoaib Malik,Multan Sultans,4,13.0,0,76,5.85,,,0/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,64d43928,Sohail Tanvir,Quetta Gladiators,12,47.0,15,326,6.94,21.73,18.8,4/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,667f678b,Ghulam Mudassar,Quetta Gladiators,5,18.67,6,170,9.11,28.33,18.67,3/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,68ddabdb,Mohammad Sami,Islamabad United,9,28.67,5,230,8.02,46.0,34.4,3/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,770494eb,DAS Gunaratne,Lahore Qalandars,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,7873a628,Ali Shafiq,Multan Sultans,2,5.67,2,20,3.53,10.0,17.0,2/11,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,7ca5e05d,RS Bopara,Karachi Kings,1,2.0,0,33,16.5,,,0/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,8596fe80,Mohammad Hasnain,Quetta Gladiators,7,28.0,12,211,7.54,17.58,14.0,3/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,87e562a9,DJ Bravo,Quetta Gladiators,6,24.0,7,199,8.29,28.43,20.57,3/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,89c16049,Agha Salman,Lahore Qalandars,2,2.17,0,20,9.23,,,0/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,907d6e58,Aamer Yamin,Karachi Kings,8,28.0,6,230,8.21,38.33,28.0,3/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,9ab63e7b,Mohammad Hafeez,Lahore Qalandars,2,5.17,0,40,7.74,,,0/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,9b8a3c39,Muhammad Musa,Islamabad United,7,23.0,8,235,10.22,29.38,17.25,3/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,9cb8d7a6,Imad Wasim,Karachi Kings,11,43.33,5,289,6.67,57.8,52.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,9de62878,Shadab Khan,Islamabad United,12,47.0,11,347,7.38,31.55,25.64,2/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,9fd3a210,Zafar Gohar,Islamabad United,2,7.0,3,58,8.29,19.33,14.0,2/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a089f93f,Mohammad Abbas,Multan Sultans,3,12.0,5,69,5.75,13.8,14.4,3/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a316d663,GC Viljoen,Lahore Qalandars,2,5.0,1,43,8.6,43.0,30.0,1/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a35c119e,AW Summers,Karachi Kings,2,8.0,0,62,7.75,,,0/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a4799701,Danish Aziz,Quetta Gladiators,1,0.5,0,6,12.0,,,0/6,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a63775d6,Rahat Ali,Lahore Qalandars,7,23.83,10,176,7.38,17.6,14.3,4/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a6fc52a9,Ibtisam Sheikh,Peshawar Zalmi,4,10.0,4,71,7.1,17.75,15.0,2/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a757b0d8,KA Pollard,Peshawar Zalmi,12,28.67,5,229,7.99,45.8,34.4,1/53,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,a8e3170f,Mohammad Irfan,Multan Sultans,9,32.0,5,209,6.53,41.8,38.4,1/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,aa8d28ae,D Wiese,Lahore Qalandars,7,24.0,5,204,8.5,40.8,28.8,1/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,af2c687b,C Munro,Karachi Kings,4,7.0,2,71,10.14,35.5,21.0,2/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,afa78c3a,CS Delport,Islamabad United,4,9.0,4,66,7.33,16.5,13.5,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,b3118300,Wahab Riaz,Peshawar Zalmi,13,49.83,17,338,6.78,19.88,17.59,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,b410bd3d,S Lamichhane,Lahore Qalandars,7,24.67,11,189,7.66,17.18,13.45,4/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,b98b5e1c,Sohaib Maqsood,Peshawar Zalmi,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,bb4b445b,Hussain Talat,Islamabad United,2,2.0,0,25,12.5,,,0/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,bbd41817,AD Russell,Multan Sultans,4,11.0,1,118,10.73,118.0,66.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,bbfa0b42,Mohammad Ilyas,Multan Sultans,7,24.0,9,194,8.08,21.56,16.0,3/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,bcc154fa,Nabi Gul,Peshawar Zalmi,1,0.83,0,4,4.8,,,0/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,bd4ea627,Faheem Ashraf,Islamabad United,12,44.17,21,322,7.29,15.33,12.62,6/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,c6a1b1bb,Amad Butt,Islamabad United,2,8.0,4,67,8.38,16.75,12.0,3/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,cad00a4d,RR Rossouw,Quetta Gladiators,2,1.67,1,9,5.4,9.0,10.0,1/3,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,db3643f3,Umer Khan,Karachi Kings,10,34.0,15,242,7.12,16.13,13.6,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,dc2abe5e,Ahsan Ali,Quetta Gladiators,1,1.0,1,9,9.0,9.0,6.0,1/9,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,e174dadd,Mohammad Amir,Karachi Kings,9,34.5,13,257,7.45,19.77,15.92,4/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,e342e5fb,CR Brathwaite,Lahore Qalandars,1,2.0,1,25,12.5,25.0,12.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,e412cb64,HF Gurney,Quetta Gladiators,1,2.0,1,13,6.5,13.0,12.0,1/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,eb2d5fe7,Anwar Ali,Quetta Gladiators,2,7.67,1,67,8.74,67.0,46.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,f0e722e0,Usman Shinwari,Karachi Kings,9,31.0,13,302,9.74,23.23,14.31,4/15,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,f2800ef3,Yasir Shah,Lahore Qalandars,5,17.17,3,136,7.92,45.33,34.33,1/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,f59b3bd1,Waqas Maqsood,Islamabad United,2,7.67,2,68,8.87,34.0,23.0,1/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,f69f1d8a,Umaid Asif,Peshawar Zalmi,8,30.0,7,264,8.8,37.71,25.71,1/46,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2019,ffe699c0,CJ Jordan,Peshawar Zalmi,2,7.0,3,64,9.14,21.33,14.0,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2020,06c2de82,L Gregory,Peshawar Zalmi,4,10.0,4,105,10.5,26.25,15.0,4/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,086f5984,Junaid Khan,Multan Sultans,3,10.0,3,95,9.5,31.67,20.0,2/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,0dc00542,Shahid Afridi,Multan Sultans,8,23.0,7,178,7.74,25.43,19.71,2/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,0f6db197,S Mahmood,Peshawar Zalmi,1,4.0,3,41,10.25,13.67,8.0,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,1574f3fe,Muhammad Faizan,Lahore Qalandars,3,7.0,3,72,10.29,24.0,14.0,2/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,18fac429,SR Patel,Lahore Qalandars,10,31.0,10,235,7.58,23.5,18.6,4/5,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,1c790f4f,Rumman Raees,Islamabad United,6,17.17,6,153,8.91,25.5,17.17,3/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,22ae3041,Fawad Ahmed,Quetta Gladiators,5,19.5,4,165,8.46,41.25,29.25,2/40,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,245c97cb,TS Mills,Quetta Gladiators,4,15.0,5,122,8.13,24.4,18.0,2/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,24bb1c2f,Haris Rauf,Lahore Qalandars,8,30.0,10,302,10.07,30.2,18.0,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,2911de16,Hasan Ali,Peshawar Zalmi,9,32.0,8,275,8.59,34.38,24.0,2/52,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,29e253dd,Iftikhar Ahmed,Karachi Kings,5,13.0,2,97,7.46,48.5,39.0,1/42,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,2e11c706,BCJ Cutting,Quetta Gladiators,5,16.0,8,173,10.81,21.62,12.0,3/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,3086f7a4,Mohammad Nawaz,Quetta Gladiators,9,25.0,6,208,8.32,34.67,25.0,2/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,30afc92b,Salman Irshad,Lahore Qalandars,5,13.0,7,143,11.0,20.43,11.14,4/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,33742f04,Usman Qadir,Multan Sultans,1,4.0,1,24,6.0,24.0,24.0,1/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,38d1def2,Raja Farzan,Lahore Qalandars,2,6.0,2,35,5.83,17.5,18.0,2/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,3a60e0b5,WD Parnell,Karachi Kings,1,3.0,0,35,11.67,,,0/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,12,46.67,17,332,7.11,19.53,16.47,4/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,494a0503,Abdul Nasir,Quetta Gladiators,1,3.0,0,26,8.67,,,0/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,4a461c24,LA Dawson,Peshawar Zalmi,2,5.0,0,53,10.6,,,0/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,50c6bc2b,LS Livingstone,Peshawar Zalmi,1,1.0,0,10,10.0,,,0/10,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,51a3c5ef,MJ McClenaghan,Karachi Kings,1,1.0,0,14,14.0,,,0/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,57bd3ecc,Hammad Azam,Peshawar Zalmi,1,1.0,0,11,11.0,,,0/11,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,5af743d0,Sohail Khan,Quetta Gladiators,7,25.17,7,235,9.34,33.57,21.57,2/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,64c34cd0,Shoaib Malik,Peshawar Zalmi,5,11.0,0,88,8.0,,,0/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,64d43928,Sohail Tanvir,Multan Sultans,9,31.5,16,243,7.71,15.19,11.81,4/13,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,65a2fff5,Mohammad Imran,Peshawar Zalmi,1,2.0,1,16,8.0,16.0,12.0,1/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,6dd8b88c,Usama Mir,Karachi Kings,3,8.0,0,71,8.88,,,0/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,70b8fd28,A Lyth,Multan Sultans,2,3.0,1,26,8.67,26.0,18.0,1/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,72f03be4,Mohammad Amir Khan,Peshawar Zalmi,4,12.0,3,107,8.92,35.67,24.0,1/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,73a0e5d8,Maaz Khan,Lahore Qalandars,3,7.0,2,76,10.86,38.0,21.0,2/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,7662cf7a,Bilawal Bhatti,Multan Sultans,2,7.0,3,67,9.57,22.33,14.0,3/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,7873a628,Ali Shafiq,Multan Sultans,2,6.83,2,71,10.39,35.5,20.5,2/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,79f8472d,Mohammad Mohsin,Peshawar Zalmi,1,4.0,1,35,8.75,35.0,24.0,1/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,7ca5e05d,RS Bopara,Multan Sultans,1,2.0,0,17,8.5,,,0/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,8596fe80,Mohammad Hasnain,Quetta Gladiators,9,32.0,15,287,8.97,19.13,12.8,4/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,8fd1a8f5,DW Steyn,Islamabad United,4,11.0,2,84,7.64,42.0,33.0,1/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,907d6e58,Aamer Yamin,Karachi Kings,3,8.17,3,48,5.88,16.0,16.33,2/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,99d7d5b7,Akif Javed,Islamabad United,5,15.0,4,125,8.33,31.25,22.5,1/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9ab63e7b,Mohammad Hafeez,Lahore Qalandars,8,20.0,3,130,6.5,43.33,40.0,1/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9b8a3c39,Muhammad Musa,Islamabad United,7,22.67,6,187,8.25,31.17,22.67,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9c9af282,Naseem Shah,Quetta Gladiators,6,22.0,5,162,7.36,32.4,26.4,2/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9cb8d7a6,Imad Wasim,Karachi Kings,11,31.83,7,225,7.07,32.14,27.29,2/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9de62878,Shadab Khan,Islamabad United,9,28.5,8,235,8.25,29.38,21.38,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,9fd3a210,Zafar Gohar,Islamabad United,3,10.0,5,62,6.2,12.4,12.0,3/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,a316d663,GC Viljoen,Peshawar Zalmi,1,2.0,0,23,11.5,,,0/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,a63775d6,Rahat Ali,Peshawar Zalmi,10,36.17,9,302,8.35,33.56,24.11,3/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,a8e3170f,Mohammad Irfan,Multan Sultans,7,26.0,4,212,8.15,53.0,39.0,2/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,a968d8eb,Dilbar Hussain,Lahore Qalandars,11,34.5,14,279,8.09,19.93,14.79,4/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,aa8d28ae,D Wiese,Lahore Qalandars,10,30.0,12,252,8.4,21.0,15.0,3/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,acee4cc4,Imran Tahir,Multan Sultans,9,32.0,11,238,7.44,21.64,17.45,3/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,afa78c3a,CS Delport,Karachi Kings,3,9.17,1,93,10.15,93.0,55.0,1/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,b0eaaac6,Ali Khan,Karachi Kings,1,3.0,1,36,12.0,36.0,18.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,b3118300,Wahab Riaz,Peshawar Zalmi,10,35.83,11,292,8.15,26.55,19.55,3/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,ba158afd,Zahid Mahmood,Quetta Gladiators,1,2.83,0,26,9.18,,,0/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,bb351c23,MM Ali,Multan Sultans,6,11.0,5,110,10.0,22.0,13.2,2/13,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,bb4b445b,Hussain Talat,Islamabad United,2,3.0,0,34,11.33,,,0/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,bbfa0b42,Mohammad Ilyas,Multan Sultans,8,19.67,8,169,8.59,21.12,14.75,2/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,bd4ea627,Faheem Ashraf,Islamabad United,7,20.67,7,220,10.65,31.43,17.71,2/46,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,c03c6200,DJG Sammy,Peshawar Zalmi,1,1.0,1,9,9.0,9.0,6.0,1/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,c6a1b1bb,Amad Butt,Islamabad United,4,14.67,5,143,9.75,28.6,17.6,4/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,db3643f3,Umer Khan,Karachi Kings,5,17.0,4,155,9.12,38.75,25.5,1/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,e174dadd,Mohammad Amir,Karachi Kings,11,43.83,10,336,7.67,33.6,26.3,4/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,e342e5fb,CR Brathwaite,Peshawar Zalmi,4,9.83,5,83,8.44,16.6,11.8,3/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,eb2d5fe7,Anwar Ali,Quetta Gladiators,3,4.0,0,50,12.5,,,0/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,ed031922,Arshad Iqbal,Karachi Kings,7,24.33,9,206,8.47,22.89,16.22,2/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,f0e722e0,Usman Shinwari,Lahore Qalandars,4,12.83,0,147,11.45,,,0/46,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,f2800ef3,Yasir Shah,Peshawar Zalmi,4,12.0,3,112,9.33,37.33,24.0,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,f59b3bd1,Waqas Maqsood,Karachi Kings,3,12.0,6,63,5.25,10.5,12.0,2/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,f69f1d8a,Umaid Asif,Karachi Kings,7,25.0,8,193,7.72,24.12,18.75,2/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,f78e7113,S Prasanna,Lahore Qalandars,2,5.0,0,56,11.2,,,0/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,fb23118c,Ahmed Safi Abdullah,Islamabad United,3,8.0,4,65,8.12,16.25,12.0,2/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,fce581b5,Khushdil Shah,Multan Sultans,3,5.0,1,25,5.0,25.0,30.0,1/1,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2020,ffe699c0,CJ Jordan,Karachi Kings,9,33.0,9,273,8.27,30.33,22.0,2/39,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 records versus 33 completed matches; an additional scheduled match was abandoned.
+2021,06c2de82,L Gregory,Islamabad United,2,5.0,2,42,8.4,21.0,15.0,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,0dc00542,Shahid Afridi,Multan Sultans,4,15.0,2,135,9.0,67.5,45.0,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,0f12f9df,NLTC Perera,Karachi Kings,3,7.0,4,56,8.0,14.0,10.5,2/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,0f6db197,S Mahmood,Peshawar Zalmi,5,18.17,12,145,7.98,12.08,9.08,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,18fac429,SR Patel,Lahore Qalandars,2,5.0,2,53,10.6,26.5,15.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,1e9b3b23,Arish Ali,Quetta Gladiators,1,4.0,4,28,7.0,7.0,6.0,4/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,22ae3041,Fawad Ahmed,Islamabad United,5,20.0,6,167,8.35,27.83,20.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,24bb1c2f,Haris Rauf,Lahore Qalandars,9,35.33,10,342,9.68,34.2,21.2,3/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,27c5715d,Khurram Shahzad,Quetta Gladiators,5,16.0,7,116,7.25,16.57,13.71,3/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,2911de16,Hasan Ali,Islamabad United,10,39.83,13,269,6.75,20.69,18.38,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,29e253dd,Iftikhar Ahmed,Islamabad United,6,8.17,1,79,9.67,79.0,49.0,1/11,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,2a2e6343,DT Christian,Karachi Kings,5,12.33,4,134,10.86,33.5,18.5,1/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,2b0f2af3,Imran Khan,Multan Sultans,7,25.0,12,179,7.16,14.92,12.5,3/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,2cec2a92,Abbas Afridi,Karachi Kings,4,10.0,4,102,10.2,25.5,15.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,2e11c706,BCJ Cutting,Quetta Gladiators,3,5.83,1,74,12.69,74.0,35.0,1/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,3086f7a4,Mohammad Nawaz,Quetta Gladiators,9,26.0,6,195,7.5,32.5,26.0,2/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,33742f04,Usman Qadir,Multan Sultans,4,15.0,4,108,7.2,27.0,22.5,2/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,3be224b0,Sameen Gul,Peshawar Zalmi,3,11.0,5,95,8.64,19.0,13.2,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,3f1066d0,Waqar Salamkheil,Peshawar Zalmi,1,3.0,0,38,12.67,,,0/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,449f4e3c,B Muzarabani,Multan Sultans,6,18.67,10,144,7.71,14.4,11.2,3/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,10,40.0,16,292,7.3,18.25,15.0,3/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,486065b3,Hassan Khan,Quetta Gladiators,3,7.0,1,70,10.0,70.0,42.0,1/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,494a0503,Abdul Nasir,Quetta Gladiators,1,4.0,1,15,3.75,15.0,24.0,1/15,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,57bd3ecc,Hammad Azam,Multan Sultans,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,5af743d0,Sohail Khan,Multan Sultans,5,19.83,2,174,8.77,87.0,59.5,1/48,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,5f547c8b,Rashid Khan,Lahore Qalandars,8,32.0,11,175,5.47,15.91,17.45,5/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,62af8546,Mohammad Nabi,Karachi Kings,4,11.0,1,84,7.64,84.0,66.0,1/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,64c34cd0,Shoaib Malik,Peshawar Zalmi,5,9.0,1,71,7.89,71.0,54.0,1/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,64d43928,Sohail Tanvir,Multan Sultans,8,29.0,5,240,8.28,48.0,34.8,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,650d5e49,R Powell,Peshawar Zalmi,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,65a2fff5,Mohammad Imran,Peshawar Zalmi,11,41.5,9,340,8.19,37.78,27.67,2/47,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,6a633d13,Sohaibullah,Multan Sultans,1,3.0,0,26,8.67,,,0/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,786b7fe8,Zahir Khan,Quetta Gladiators,2,8.0,1,56,7.0,56.0,48.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,7ab1eab7,Salman Mirza,Lahore Qalandars,2,6.0,2,62,10.33,31.0,18.0,2/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,7ccbb09f,Shahnawaz Dhani,Multan Sultans,11,40.33,20,340,8.43,17.0,12.1,4/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,7d92277a,Mujeeb Ur Rahman,Peshawar Zalmi,4,16.0,2,137,8.56,68.5,48.0,1/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,808f425a,JP Faulkner,Lahore Qalandars,6,24.0,13,156,6.5,12.0,11.08,3/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,8596fe80,Mohammad Hasnain,Quetta Gladiators,9,32.83,9,292,8.89,32.44,21.89,2/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,8d5d991e,Qais Ahmad,Quetta Gladiators,2,7.0,3,64,9.14,21.33,14.0,3/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,8fd1a8f5,DW Steyn,Quetta Gladiators,3,10.67,4,98,9.19,24.5,16.0,2/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,907d6e58,Aamer Yamin,Karachi Kings,3,5.0,2,79,15.8,39.5,15.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9656afbf,Ahmed Daniyal,Lahore Qalandars,10,35.0,6,330,9.43,55.0,35.0,2/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,99d7d5b7,Akif Javed,Islamabad United,5,19.0,6,160,8.42,26.67,19.0,3/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9ab63e7b,Mohammad Hafeez,Lahore Qalandars,5,8.0,2,62,7.75,31.0,24.0,1/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9b8a3c39,Muhammad Musa,Islamabad United,3,11.0,5,95,8.64,19.0,13.2,3/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9c9af282,Naseem Shah,Quetta Gladiators,4,8.0,0,89,11.12,,,0/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9cb8d7a6,Imad Wasim,Karachi Kings,10,31.0,7,241,7.77,34.43,26.57,2/2,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9de62878,Shadab Khan,Islamabad United,11,39.0,9,325,8.33,36.11,26.0,2/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9e9af5f2,Mohammad Wasim,Islamabad United,11,40.0,12,336,8.4,28.0,20.0,4/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,9fd3a210,Zafar Gohar,Islamabad United,3,7.0,0,100,14.29,,,0/65,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,a4799701,Danish Aziz,Karachi Kings,1,2.0,0,15,7.5,,,0/15,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,a8e3170f,Mohammad Irfan,Peshawar Zalmi,10,40.0,10,271,6.78,27.1,24.0,3/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,aa8d28ae,D Wiese,Lahore Qalandars,4,11.0,2,102,9.27,51.0,33.0,1/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,abb7c76c,Abrar Ahmed,Peshawar Zalmi,2,7.0,3,62,8.86,20.67,14.0,3/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,acee4cc4,Imran Tahir,Multan Sultans,7,25.0,13,170,6.8,13.08,11.54,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,afa78c3a,CS Delport,Quetta Gladiators,1,1.0,0,25,25.0,,,0/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,b0eaaac6,Ali Khan,Islamabad United,3,8.33,2,70,8.4,35.0,25.0,1/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,b3118300,Wahab Riaz,Peshawar Zalmi,12,47.0,18,422,8.98,23.44,15.67,4/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,b52ffbbd,FA Allen,Peshawar Zalmi,3,8.0,3,83,10.38,27.67,16.0,2/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,b6359668,Qasim Akram,Karachi Kings,1,4.0,0,34,8.5,,,0/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,ba158afd,Zahid Mahmood,Quetta Gladiators,6,20.0,6,217,10.85,36.17,20.0,2/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,bb4b445b,Hussain Talat,Islamabad United,3,7.0,3,78,11.14,26.0,14.0,2/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,bbfa0b42,Mohammad Ilyas,Karachi Kings,5,17.83,8,173,9.7,21.62,13.38,3/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,bd4ea627,Faheem Ashraf,Islamabad United,8,28.0,9,190,6.79,21.11,18.67,3/11,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,c6a1b1bb,Amad Butt,Peshawar Zalmi,4,14.5,2,166,11.45,83.0,43.5,1/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,e174dadd,Mohammad Amir,Karachi Kings,11,41.67,5,349,8.38,69.8,50.0,1/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,e342e5fb,CR Brathwaite,Multan Sultans,5,20.0,4,159,7.95,39.75,30.0,2/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,e9ea5eb5,Khalid Usman,Peshawar Zalmi,1,4.0,0,45,11.25,,,0/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,eb2d5fe7,Anwar Ali,Quetta Gladiators,1,3.0,0,33,11.0,,,0/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,ed031922,Arshad Iqbal,Karachi Kings,9,29.0,8,260,8.97,32.5,21.75,3/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,efc04be7,Noor Ahmad,Karachi Kings,4,15.0,4,113,7.53,28.25,22.5,2/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,f0e293b0,Zahoor Khan,Quetta Gladiators,1,1.0,0,23,23.0,,,0/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,f0e722e0,Usman Shinwari,Quetta Gladiators,5,18.0,5,173,9.61,34.6,21.6,3/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,f1c61793,JD Wildermuth,Quetta Gladiators,2,4.0,0,65,16.25,,,0/53,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,f59b3bd1,Waqas Maqsood,Karachi Kings,7,20.5,7,192,9.37,27.43,17.57,2/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,f69f1d8a,Umaid Asif,Peshawar Zalmi,9,31.5,8,306,9.71,38.25,23.62,2/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,fce581b5,Khushdil Shah,Multan Sultans,3,4.0,1,37,9.25,37.0,24.0,1/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2021,feb6180d,Mohammad Umar,Multan Sultans,2,7.0,2,79,11.29,39.5,21.0,1/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,06c2de82,L Gregory,Karachi Kings,6,14.17,1,126,8.89,126.0,85.0,1/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,0a4736eb,Asif Ali,Islamabad United,1,3.0,2,27,9.0,13.5,9.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,0bec3a6c,BAC Howell,Peshawar Zalmi,1,3.5,1,34,9.71,34.0,21.0,1/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,0dc00542,Shahid Afridi,Quetta Gladiators,3,11.0,3,119,10.82,39.67,22.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,0e9b0f64,Ali Majid,Peshawar Zalmi,1,4.0,0,33,8.25,,,0/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,0f6db197,S Mahmood,Peshawar Zalmi,2,7.0,2,81,11.57,40.5,21.0,2/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,18fac429,SR Patel,Lahore Qalandars,5,12.0,1,101,8.42,101.0,72.0,1/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,1c790f4f,Rumman Raees,Multan Sultans,6,17.0,3,160,9.41,53.33,34.0,1/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,1d2f290a,JA Thompson,Karachi Kings,1,2.0,1,22,11.0,22.0,12.0,1/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,1e9b3b23,Arish Ali,Peshawar Zalmi,1,3.0,0,36,12.0,,,0/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,1efd12d1,PR Brown,Peshawar Zalmi,2,7.0,0,61,8.71,,,0/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,22ae3041,Fawad Ahmed,Lahore Qalandars,1,4.0,2,26,6.5,13.0,12.0,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,24bb1c2f,Haris Rauf,Lahore Qalandars,13,51.67,16,470,9.1,29.38,19.38,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,27c5715d,Khurram Shahzad,Quetta Gladiators,2,8.0,5,62,7.75,12.4,9.6,4/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,28392e11,Zaman Khan,Lahore Qalandars,13,46.83,18,387,8.26,21.5,15.61,4/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,2911de16,Hasan Ali,Islamabad United,9,33.67,9,365,10.84,40.56,22.44,3/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,29e253dd,Iftikhar Ahmed,Quetta Gladiators,8,9.5,2,92,9.68,46.0,28.5,1/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,2b0f2af3,Imran Khan,Multan Sultans,3,10.67,0,129,12.09,,,0/54,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,2cec2a92,Abbas Afridi,Multan Sultans,5,15.0,3,127,8.47,42.33,30.0,1/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,2e11c706,BCJ Cutting,Peshawar Zalmi,3,6.83,1,68,9.95,68.0,41.0,1/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,3086f7a4,Mohammad Nawaz,Quetta Gladiators,5,15.0,6,126,8.4,21.0,15.0,3/44,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,30afc92b,Salman Irshad,Peshawar Zalmi,8,32.0,15,264,8.25,17.6,12.8,3/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,3207b7d2,Mohammad Taha,Karachi Kings,1,4.0,0,32,8.0,,,0/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,33742f04,Usman Qadir,Peshawar Zalmi,7,23.0,8,233,10.13,29.12,17.25,3/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,35f4cf7e,Kamran Ghulam,Lahore Qalandars,5,8.0,1,73,9.12,73.0,48.0,1/15,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,3be224b0,Sameen Gul,Peshawar Zalmi,1,4.0,2,41,10.25,20.5,12.0,2/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,449f4e3c,B Muzarabani,Multan Sultans,4,16.0,5,129,8.06,25.8,19.2,3/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,13,52.33,20,402,7.68,20.1,15.7,3/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,486065b3,Hassan Khan,Quetta Gladiators,2,6.67,0,69,10.35,,,0/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,4a461c24,LA Dawson,Islamabad United,7,23.5,9,159,6.77,17.67,15.67,3/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,50c6bc2b,LS Livingstone,Peshawar Zalmi,4,13.0,2,112,8.62,56.0,39.0,1/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,55d3d4e8,Athar Mahmood,Islamabad United,3,8.0,0,49,6.12,,,0/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,5af743d0,Sohail Khan,Peshawar Zalmi,2,7.0,0,96,13.71,,,0/51,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,5f547c8b,Rashid Khan,Lahore Qalandars,9,36.0,13,225,6.25,17.31,16.62,4/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,62af8546,Mohammad Nabi,Karachi Kings,9,31.33,5,213,6.8,42.6,37.6,2/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,64c34cd0,Shoaib Malik,Peshawar Zalmi,7,11.0,3,72,6.55,24.0,22.0,1/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,64d43928,Sohail Tanvir,Quetta Gladiators,7,26.0,2,258,9.92,129.0,78.0,2/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,65a2fff5,Mohammad Imran,Karachi Kings,3,10.0,1,93,9.3,93.0,60.0,1/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,65b6943c,L Wood,Quetta Gladiators,1,4.0,1,45,11.25,45.0,24.0,1/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,667f678b,Ghulam Mudassar,Quetta Gladiators,5,17.0,5,193,11.35,38.6,20.4,2/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,7264b765,Mubasir Khan,Islamabad United,5,8.0,1,58,7.25,58.0,48.0,1/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,786b7fe8,Zahir Khan,Islamabad United,2,7.0,2,67,9.57,33.5,21.0,1/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,7ccbb09f,Shahnawaz Dhani,Multan Sultans,11,36.0,17,336,9.33,19.76,12.71,3/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,7f048519,DJ Willey,Multan Sultans,8,25.5,13,208,8.16,16.0,11.77,3/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,808f425a,JP Faulkner,Quetta Gladiators,6,20.0,6,196,9.8,32.67,20.0,2/47,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,8596fe80,Mohammad Hasnain,Quetta Gladiators,3,9.0,3,76,8.44,25.33,18.0,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,907d6e58,Aamer Yamin,Karachi Kings,5,11.0,1,113,10.27,113.0,66.0,1/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,935678ee,Aamer Azmat,Multan Sultans,1,1.0,0,3,3.0,,,0/3,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9489623e,Asif Afridi,Multan Sultans,5,19.0,8,124,6.53,15.5,14.25,3/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9ab63e7b,Mohammad Hafeez,Lahore Qalandars,8,18.0,6,117,6.5,19.5,18.0,2/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9b8a3c39,Muhammad Musa,Islamabad United,1,2.0,0,33,16.5,,,0/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9c9af282,Naseem Shah,Quetta Gladiators,10,38.17,14,306,8.02,21.86,16.36,5/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9cb8d7a6,Imad Wasim,Karachi Kings,9,35.0,6,239,6.83,39.83,35.0,2/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9de62878,Shadab Khan,Islamabad United,8,32.0,19,207,6.47,10.89,10.11,5/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9e9af5f2,Mohammad Wasim,Islamabad United,8,27.5,8,308,11.2,38.5,20.62,2/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,9fd3a210,Zafar Gohar,Islamabad United,1,3.0,0,21,7.0,,,0/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,a4799701,Danish Aziz,Islamabad United,1,0.33,0,6,18.0,,,0/6,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,a8e3170f,Mohammad Irfan,Quetta Gladiators,2,7.5,2,56,7.47,28.0,22.5,1/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,aa8d28ae,D Wiese,Lahore Qalandars,13,29.17,9,244,8.37,27.11,19.44,2/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,aad2830e,Zeeshan Zameer,Islamabad United,2,2.5,1,17,6.8,17.0,15.0,1/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,acee4cc4,Imran Tahir,Multan Sultans,12,46.0,16,298,6.48,18.62,17.25,3/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,b3118300,Wahab Riaz,Peshawar Zalmi,10,40.0,9,354,8.85,39.33,26.67,2/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,b6359668,Qasim Akram,Karachi Kings,2,2.0,1,18,9.0,18.0,12.0,1/7,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,ba158afd,Zahid Mahmood,Islamabad United,2,7.0,1,49,7.0,49.0,42.0,1/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,bb4b445b,Hussain Talat,Peshawar Zalmi,6,17.0,4,134,7.88,33.5,25.5,1/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,bbfa0b42,Mohammad Ilyas,Karachi Kings,3,6.0,1,71,11.83,71.0,36.0,1/2,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,bd4ea627,Faheem Ashraf,Islamabad United,10,34.0,9,284,8.35,31.56,22.67,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,c290033d,Ihsanullah,Multan Sultans,2,3.33,1,23,6.9,23.0,20.0,1/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,c6a1b1bb,Amad Butt,Peshawar Zalmi,2,6.0,1,46,7.67,46.0,36.0,1/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,cb1a782a,Mir Hamza,Karachi Kings,4,16.0,8,114,7.12,14.25,12.0,4/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,d4eef961,M de Lange,Islamabad United,5,15.0,2,153,10.2,76.5,45.0,1/48,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,e9ea5eb5,Khalid Usman,Peshawar Zalmi,2,8.0,2,42,5.25,21.0,24.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,eb2d5fe7,Anwar Ali,Multan Sultans,4,9.0,2,79,8.78,39.5,27.0,1/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,ed031922,Arshad Iqbal,Peshawar Zalmi,1,4.0,2,30,7.5,15.0,12.0,2/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,ed54033c,Ashir Qureshi,Quetta Gladiators,2,7.0,1,61,8.71,61.0,42.0,1/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,efc04be7,Noor Ahmad,Quetta Gladiators,4,16.0,2,138,8.62,69.0,48.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,f0e722e0,Usman Shinwari,Karachi Kings,3,12.0,2,83,6.92,41.5,36.0,1/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,f1f99156,TH David,Multan Sultans,3,4.0,1,38,9.5,38.0,24.0,1/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,f59b3bd1,Waqas Maqsood,Islamabad United,8,30.0,12,282,9.4,23.5,15.0,4/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,f69f1d8a,Umaid Asif,Karachi Kings,8,29.5,8,254,8.61,31.75,22.12,3/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,fce581b5,Khushdil Shah,Multan Sultans,12,32.33,16,223,6.9,13.94,12.12,4/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,feb6180d,Mohammad Umar,Peshawar Zalmi,6,20.0,5,187,9.35,37.4,24.0,3/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2022,ffe699c0,CJ Jordan,Karachi Kings,5,20.0,9,189,9.45,21.0,13.33,3/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,0ecf791e,S Dadswell,Lahore Qalandars,1,1.0,0,8,8.0,,,0/8,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,11614d87,D Pretorius,Quetta Gladiators,2,8.0,1,79,9.88,79.0,48.0,1/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,1c790f4f,Rumman Raees,Islamabad United,6,22.0,6,205,9.32,34.17,22.0,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,23cca426,OF Smith,Quetta Gladiators,6,20.5,5,212,10.34,42.4,24.6,2/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,24bb1c2f,Haris Rauf,Lahore Qalandars,13,47.17,17,437,9.27,25.71,16.65,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,26d041c4,Sikandar Raza,Lahore Qalandars,9,15.83,4,146,9.22,36.5,23.75,2/6,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,27c5715d,Khurram Shahzad,Peshawar Zalmi,3,9.67,3,109,11.28,36.33,19.33,3/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,28392e11,Zaman Khan,Lahore Qalandars,13,41.5,15,354,8.53,23.6,16.6,2/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,2911de16,Hasan Ali,Islamabad United,8,32.0,13,297,9.28,22.85,14.77,3/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,29e253dd,Iftikhar Ahmed,Quetta Gladiators,3,4.0,1,33,8.25,33.0,24.0,1/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,2cbdd22f,Izharulhaq Naveed,Multan Sultans,1,4.0,0,55,13.75,,,0/55,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,2cec2a92,Abbas Afridi,Multan Sultans,11,39.33,23,372,9.46,16.17,10.26,5/47,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,2e11c706,BCJ Cutting,Karachi Kings,2,4.0,3,41,10.25,13.67,8.0,2/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,3086f7a4,Mohammad Nawaz,Quetta Gladiators,10,34.0,9,314,9.24,34.89,22.67,2/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,30afc92b,Salman Irshad,Peshawar Zalmi,6,23.83,6,225,9.44,37.5,23.83,2/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,33609a8c,Saim Ayub,Peshawar Zalmi,2,3.0,1,27,9.0,27.0,18.0,1/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,33742f04,Usman Qadir,Peshawar Zalmi,3,10.0,3,108,10.8,36.0,20.0,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,3be224b0,Sameen Gul,Multan Sultans,4,12.0,3,116,9.67,38.67,24.0,2/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,3ff033bb,MD Shanaka,Peshawar Zalmi,1,2.0,0,22,11.0,,,0/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,4277234d,Sufiyan Muqeem,Peshawar Zalmi,5,13.0,4,113,8.69,28.25,19.5,3/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,12,44.0,19,402,9.14,21.16,13.89,5/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,4a461c24,LA Dawson,Lahore Qalandars,2,4.0,1,37,9.25,37.0,24.0,1/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,4d7f517e,AJ Hosein,Multan Sultans,3,11.0,1,98,8.91,98.0,66.0,1/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,5f547c8b,Rashid Khan,Lahore Qalandars,11,43.0,20,281,6.53,14.05,12.9,4/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,64c34cd0,Shoaib Malik,Karachi Kings,4,9.83,4,62,6.31,15.5,14.75,3/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,650d5e49,R Powell,Peshawar Zalmi,1,2.0,1,37,18.5,37.0,12.0,1/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,6dd8b88c,Usama Mir,Multan Sultans,12,43.0,17,341,7.93,20.06,15.18,3/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,7264b765,Mubasir Khan,Islamabad United,6,8.0,1,81,10.12,81.0,48.0,1/5,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,774e65b3,Aimal Khan,Quetta Gladiators,4,14.0,3,165,11.79,55.0,28.0,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,7c7d63a2,AJ Tye,Karachi Kings,4,15.0,1,160,10.67,160.0,90.0,1/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,7ccbb09f,Shahnawaz Dhani,Multan Sultans,1,4.0,1,40,10.0,40.0,24.0,1/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,7d92277a,Mujeeb Ur Rahman,Peshawar Zalmi,7,28.0,4,244,8.71,61.0,42.0,2/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,7dc35884,Shakib Al Hasan,Peshawar Zalmi,1,3.0,0,32,10.67,,,0/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,8596fe80,Mohammad Hasnain,Quetta Gladiators,6,23.0,8,212,9.22,26.5,17.25,3/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,86229495,Ahsan Hafeez,Lahore Qalandars,1,2.0,0,13,6.5,,,0/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,8d5d991e,Qais Ahmad,Quetta Gladiators,4,16.0,6,183,11.44,30.5,16.0,2/77,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,8f6dd463,Azmatullah Omarzai,Peshawar Zalmi,6,23.33,10,229,9.81,22.9,14.0,3/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,907d6e58,Aamer Yamin,Karachi Kings,7,23.17,7,216,9.32,30.86,19.86,3/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9219eff0,JDS Neesham,Peshawar Zalmi,7,22.0,6,199,9.05,33.17,22.0,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,99d7d5b7,Akif Javed,Karachi Kings,5,15.5,8,135,8.71,16.88,11.62,4/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9ab63e7b,Mohammad Hafeez,Quetta Gladiators,6,8.0,0,64,8.0,,,0/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9b8a3c39,Muhammad Musa,Karachi Kings,2,8.0,3,92,11.5,30.67,16.0,2/48,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9c9af282,Naseem Shah,Quetta Gladiators,9,34.0,7,260,7.65,37.14,29.14,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9cb8d7a6,Imad Wasim,Karachi Kings,10,32.0,9,254,7.94,28.22,21.33,3/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9de62878,Shadab Khan,Islamabad United,11,40.0,12,359,8.97,29.92,20.0,2/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,9e9af5f2,Mohammad Wasim,Islamabad United,6,24.0,8,243,10.12,30.38,18.0,2/48,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,a03bba42,T Shamsi,Karachi Kings,4,16.0,7,103,6.44,14.71,13.71,3/18,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,a1d053dd,SS Cottrell,Multan Sultans,3,8.0,3,81,10.12,27.0,16.0,3/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,a757b0d8,KA Pollard,Multan Sultans,5,8.0,3,69,8.62,23.0,16.0,2/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,a8e54ef4,Aamer Jamal,Peshawar Zalmi,6,21.67,9,233,10.75,25.89,14.44,3/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,a968d8eb,Dilbar Hussain,Lahore Qalandars,1,3.0,1,37,12.33,37.0,18.0,1/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,aa8d28ae,D Wiese,Lahore Qalandars,13,39.0,9,286,7.33,31.78,26.0,3/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,aad2830e,Zeeshan Zameer,Islamabad United,1,2.0,0,30,15.0,,,0/30,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,abb7c76c,Abrar Ahmed,Islamabad United,3,12.0,3,92,7.67,30.67,24.0,2/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,acee4cc4,Imran Tahir,Karachi Kings,5,20.0,3,155,7.75,51.67,40.0,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,b2498b5d,Saad Masood,Peshawar Zalmi,1,3.0,0,40,13.33,,,0/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,b3118300,Wahab Riaz,Peshawar Zalmi,11,40.0,10,370,9.25,37.0,24.0,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,bb4b445b,Hussain Talat,Lahore Qalandars,5,8.0,4,68,8.5,17.0,12.0,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,bbfa0b42,Mohammad Ilyas,Multan Sultans,3,8.83,2,104,11.77,52.0,26.5,2/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,bd4ea627,Faheem Ashraf,Islamabad United,11,36.0,8,342,9.5,42.75,27.0,2/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,c0c411cb,Naveen-ul-Haq,Quetta Gladiators,4,16.0,4,157,9.81,39.25,24.0,2/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,c290033d,Ihsanullah,Multan Sultans,12,45.67,22,347,7.6,15.77,12.45,5/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,cb1a782a,Mir Hamza,Karachi Kings,1,2.0,1,13,6.5,13.0,12.0,1/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,dda5aae5,JK Fuller,Karachi Kings,3,11.0,2,104,9.45,52.0,33.0,1/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,e174dadd,Mohammad Amir,Karachi Kings,7,26.0,9,210,8.08,23.33,17.33,4/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,e342e5fb,CR Brathwaite,Multan Sultans,4,8.0,1,81,10.12,81.0,48.0,1/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,e86754b2,TK Curran,Islamabad United,5,20.0,8,181,9.05,22.62,15.0,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,e9c7f0d0,Fazalhaq Farooqi,Islamabad United,6,23.17,11,183,7.9,16.64,12.64,3/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,eb2d5fe7,Anwar Ali,Multan Sultans,7,25.0,10,255,10.2,25.5,15.0,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,ed031922,Arshad Iqbal,Peshawar Zalmi,7,26.0,6,273,10.5,45.5,26.0,3/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,ee1b6c27,N Thushara,Quetta Gladiators,1,2.0,1,21,10.5,21.0,12.0,1/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,f1f99156,TH David,Multan Sultans,1,1.0,0,11,11.0,,,0/11,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,f69f1d8a,Umaid Asif,Quetta Gladiators,3,11.33,4,119,10.5,29.75,17.0,3/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,fce581b5,Khushdil Shah,Multan Sultans,6,12.0,2,96,8.0,48.0,36.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2023,feb6180d,Mohammad Umar,Karachi Kings,2,7.83,3,64,8.17,21.33,15.67,2/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2024,14661bf3,Faisal Akram,Multan Sultans,2,5.0,2,41,8.2,20.5,15.0,2/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,1c790f4f,Rumman Raees,Islamabad United,4,13.33,5,106,7.95,21.2,16.0,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,22d73540,Jahandad Khan,Lahore Qalandars,9,23.0,5,226,9.83,45.2,27.6,2/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,245c97cb,TS Mills,Islamabad United,6,21.83,6,216,9.89,36.0,21.83,3/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,24bb1c2f,Haris Rauf,Lahore Qalandars,4,14.0,2,132,9.43,66.0,42.0,1/47,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,26d041c4,Sikandar Raza,Lahore Qalandars,7,18.0,3,151,8.39,50.33,36.0,1/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,27c5715d,Khurram Shahzad,Peshawar Zalmi,2,5.83,3,37,6.34,12.33,11.67,2/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,28392e11,Zaman Khan,Lahore Qalandars,9,32.0,11,316,9.88,28.73,17.45,4/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,2911de16,Hasan Ali,Karachi Kings,10,38.0,14,314,8.26,22.43,16.29,4/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,29e253dd,Iftikhar Ahmed,Multan Sultans,7,13.0,2,121,9.31,60.5,39.0,2/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,2cec2a92,Abbas Afridi,Multan Sultans,9,29.0,13,248,8.55,19.08,13.38,3/40,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,3086f7a4,Mohammad Nawaz,Karachi Kings,7,20.0,2,176,8.8,88.0,60.0,1/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,30afc92b,Salman Irshad,Peshawar Zalmi,8,29.0,9,301,10.38,33.44,19.33,3/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,33609a8c,Saim Ayub,Peshawar Zalmi,9,24.0,8,179,7.46,22.38,18.0,2/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,373838de,Mehran Mumtaz,Peshawar Zalmi,5,19.0,5,126,6.63,25.2,22.8,2/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,3b8679bf,Hunain Shah,Islamabad United,9,23.67,8,225,9.51,28.12,17.75,2/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,3f1066d0,Waqar Salamkheil,Peshawar Zalmi,1,4.0,1,54,13.5,54.0,24.0,1/54,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,3f659464,OP Stone,Multan Sultans,1,3.67,0,28,7.64,,,0/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,449f4e3c,B Muzarabani,Karachi Kings,5,20.0,6,153,7.65,25.5,20.0,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,9,36.0,14,310,8.61,22.14,15.43,3/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,4d7f517e,AJ Hosein,Quetta Gladiators,10,40.0,15,308,7.7,20.53,16.0,4/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,529eb9e0,OC McCoy,Islamabad United,2,7.0,2,63,9.0,31.5,21.0,1/50,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,57590dbb,PI Walter,Peshawar Zalmi,5,11.0,2,108,9.82,54.0,33.0,1/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,5af743d0,Sohail Khan,Quetta Gladiators,3,12.0,1,109,9.08,109.0,72.0,1/48,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,64c34cd0,Shoaib Malik,Karachi Kings,9,23.0,2,147,6.39,73.5,69.0,1/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,65a2fff5,Mohammad Imran,Lahore Qalandars,1,3.0,0,41,13.67,,,0/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,65b6943c,L Wood,Peshawar Zalmi,11,42.33,12,349,8.24,29.08,21.17,2/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,68d11420,Mohammad Zeeshan,Peshawar Zalmi,3,11.0,1,112,10.18,112.0,66.0,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,6b972db7,Tayyab Abbas,Lahore Qalandars,3,6.0,2,52,8.67,26.0,18.0,2/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,6bb9e53b,Arif Yaqoob,Peshawar Zalmi,5,16.0,8,142,8.88,17.75,12.0,5/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,6dd8b88c,Usama Mir,Multan Sultans,12,46.83,24,381,8.14,15.88,11.71,6/40,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,6e6fb538,JL du Plooy,Karachi Kings,1,1.0,0,2,2.0,,,0/2,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,72f03be4,Mohammad Amir Khan,Karachi Kings,2,2.0,0,17,8.5,,,0/10,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,73cbe848,Salman Fayyaz,Lahore Qalandars,3,6.33,2,61,9.63,30.5,19.0,1/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,774e65b3,Aimal Khan,Peshawar Zalmi,1,1.0,0,13,13.0,,,0/13,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,7ccbb09f,Shahnawaz Dhani,Multan Sultans,4,9.0,1,97,10.78,97.0,54.0,1/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,7f048519,DJ Willey,Multan Sultans,11,41.0,15,306,7.46,20.4,16.4,3/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,83d17bbc,MW Forde,Islamabad United,1,2.0,0,18,9.0,,,0/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,8596fe80,Mohammad Hasnain,Quetta Gladiators,5,18.0,4,202,11.22,50.5,27.0,2/50,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,86229495,Ahsan Hafeez,Lahore Qalandars,4,6.0,3,67,11.17,22.33,12.0,2/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,876dbe2d,DR Mousley,Peshawar Zalmi,1,3.0,0,22,7.33,,,0/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,89c16049,Agha Salman,Islamabad United,5,12.0,2,97,8.08,48.5,36.0,1/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,8d42cee6,Aftab Ibrahim,Multan Sultans,3,7.0,3,61,8.71,20.33,14.0,2/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,9c9af282,Naseem Shah,Islamabad United,11,44.0,15,333,7.57,22.2,17.6,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,9cb8d7a6,Imad Wasim,Islamabad United,12,38.0,12,251,6.61,20.92,19.0,5/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,9de62878,Shadab Khan,Islamabad United,12,44.0,14,376,8.55,26.86,18.86,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,9e9af5f2,Mohammad Wasim,Quetta Gladiators,8,30.0,9,297,9.9,33.0,20.0,3/20,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,a03bba42,T Shamsi,Karachi Kings,4,15.0,3,157,10.47,52.33,30.0,2/42,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,a757b0d8,KA Pollard,Karachi Kings,1,1.0,0,11,11.0,,,0/11,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,a86a37ab,Mohammad Ali,Multan Sultans,12,43.0,19,354,8.23,18.63,13.58,3/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,a8e54ef4,Aamer Jamal,Peshawar Zalmi,8,24.0,5,230,9.58,46.0,28.8,2/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,aa8d28ae,D Wiese,Lahore Qalandars,4,10.0,1,79,7.9,79.0,60.0,1/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,abb7c76c,Abrar Ahmed,Quetta Gladiators,10,40.0,16,313,7.83,19.56,15.0,3/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,ba158afd,Zahid Mahmood,Karachi Kings,6,24.0,8,167,6.96,20.88,18.0,2/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,bd4ea627,Faheem Ashraf,Islamabad United,10,28.0,6,276,9.86,46.0,28.0,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,c0c411cb,Naveen-ul-Haq,Peshawar Zalmi,6,22.0,9,214,9.73,23.78,14.67,2/50,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,caf69bf7,DR Sams,Karachi Kings,4,16.0,4,154,9.62,38.5,24.0,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,cb1a782a,Mir Hamza,Karachi Kings,7,25.17,10,223,8.86,22.3,15.1,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,cc535250,Ubaid Shah,Islamabad United,2,3.0,0,30,10.0,,,0/15,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,d07c1b2f,Saud Shakeel,Quetta Gladiators,2,2.0,1,15,7.5,15.0,12.0,1/5,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,e174dadd,Mohammad Amir,Quetta Gladiators,9,34.0,10,286,8.41,28.6,20.4,2/46,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,e342e5fb,CR Brathwaite,Lahore Qalandars,3,9.0,1,77,8.56,77.0,54.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,e5437608,GF Linde,Lahore Qalandars,4,12.0,1,106,8.83,106.0,72.0,1/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,e94d1dcd,Usman Tariq,Quetta Gladiators,5,19.5,2,143,7.33,71.5,58.5,2/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,eb2d5fe7,Anwar Ali,Karachi Kings,3,7.0,1,78,11.14,78.0,42.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,f2e8b37c,Arafat Minhas,Karachi Kings,1,4.0,1,11,2.75,11.0,24.0,1/11,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,fce581b5,Khushdil Shah,Multan Sultans,6,14.5,4,102,7.03,25.5,21.75,2/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2024,ffe699c0,CJ Jordan,Multan Sultans,6,21.0,6,177,8.43,29.5,21.0,2/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 32 of 34 reported season matches.
+2025,0e9b0f64,Ali Majid,Quetta Gladiators,1,4.0,2,29,7.25,14.5,12.0,2/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,0f721006,JO Holder,Islamabad United,8,30.0,15,281,9.37,18.73,12.0,4/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,14661bf3,Faisal Akram,Multan Sultans,1,3.0,0,24,8.0,,,0/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,1a2676c5,SA Abbott,Quetta Gladiators,1,4.0,1,33,8.25,33.0,24.0,1/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,22d73540,Jahandad Khan,Lahore Qalandars,2,4.67,0,56,12.0,,,0/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,245c97cb,TS Mills,Islamabad United,2,7.0,3,75,10.71,25.0,14.0,3/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,24bb1c2f,Haris Rauf,Lahore Qalandars,12,42.5,17,437,10.28,25.71,15.0,4/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,26a8b2fe,Hassan Nawaz,Quetta Gladiators,1,1.0,0,11,11.0,,,0/11,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,26d041c4,Sikandar Raza,Lahore Qalandars,10,22.17,10,172,7.76,17.2,13.3,3/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,27c5715d,Khurram Shahzad,Quetta Gladiators,8,29.0,12,234,8.07,19.5,14.5,4/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,28392e11,Zaman Khan,Lahore Qalandars,4,10.0,1,93,9.3,93.0,60.0,1/49,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,2911de16,Hasan Ali,Karachi Kings,10,38.5,17,348,9.04,20.47,13.59,4/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,29e253dd,Iftikhar Ahmed,Multan Sultans,3,4.0,1,35,8.75,35.0,24.0,1/5,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,2cec2a92,Abbas Afridi,Karachi Kings,11,39.0,17,400,10.26,23.53,13.76,4/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,3086f7a4,Mohammad Nawaz,Islamabad United,4,8.0,2,62,7.75,31.0,24.0,1/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,30afc92b,Salman Irshad,Islamabad United,5,19.33,9,174,9.0,19.33,12.89,3/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,33609a8c,Saim Ayub,Peshawar Zalmi,9,19.0,5,163,8.58,32.6,22.8,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,350bb1b1,AF Milne,Karachi Kings,2,8.0,0,91,11.38,,,0/60,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,3b8679bf,Hunain Shah,Islamabad United,1,1.0,0,13,13.0,,,0/13,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,4277234d,Sufiyan Muqeem,Peshawar Zalmi,3,11.0,1,107,9.73,107.0,66.0,1/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,12,40.17,19,312,7.77,16.42,12.68,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,478a63e7,C Campher,Multan Sultans,1,4.0,1,27,6.75,27.0,24.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,4d7f517e,AJ Hosein,Quetta Gladiators,1,4.0,2,40,10.0,20.0,12.0,2/40,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,53834b36,Ali Raza,Peshawar Zalmi,9,33.0,12,303,9.18,25.25,16.5,4/21,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,5935d694,Rishad Hossain,Lahore Qalandars,7,24.0,13,224,9.33,17.23,11.08,3/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,62af8546,Mohammad Nabi,Karachi Kings,8,28.17,7,192,6.82,27.43,24.14,3/14,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,64775749,RP Meredith,Islamabad United,4,14.0,4,124,8.86,31.0,21.0,1/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,64c34cd0,Shoaib Malik,Quetta Gladiators,2,2.0,0,35,17.5,,,0/19,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,65b6943c,L Wood,Peshawar Zalmi,8,29.17,11,208,7.13,18.91,15.91,3/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,68c56d09,KA Jamieson,Quetta Gladiators,2,7.0,2,63,9.0,31.5,21.0,1/35,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,68d11420,Mohammad Zeeshan,Quetta Gladiators,1,2.0,0,22,11.0,,,0/22,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,6bb9e53b,Arif Yaqoob,Peshawar Zalmi,4,14.0,6,91,6.5,15.17,14.0,3/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,6d9560f3,Maaz Sadaqat,Peshawar Zalmi,1,3.0,2,12,4.0,6.0,9.0,2/12,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,6dd8b88c,Usama Mir,Multan Sultans,7,23.83,4,222,9.31,55.5,35.75,2/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,6f95e5fa,P Hatzoglou,Multan Sultans,1,4.0,1,34,8.5,34.0,24.0,1/34,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,73c18486,KR Mayers,Islamabad United,2,3.0,1,31,10.33,31.0,18.0,1/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,7ab1eab7,Salman Mirza,Lahore Qalandars,4,14.0,9,135,9.64,15.0,9.33,4/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,7dc35884,Shakib Al Hasan,Lahore Qalandars,3,6.0,1,49,8.17,49.0,36.0,1/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,7f048519,DJ Willey,Multan Sultans,7,20.0,6,208,10.4,34.67,20.0,2/36,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,8596fe80,Mohammad Hasnain,Multan Sultans,5,16.0,3,156,9.75,52.0,32.0,1/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,89c16049,Agha Salman,Islamabad United,5,8.0,2,67,8.38,33.5,24.0,1/16,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,8d964ae6,Shahid Aziz,Multan Sultans,3,9.0,5,78,8.67,15.6,10.8,3/29,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9061a703,J Little,Multan Sultans,3,10.0,2,104,10.4,52.0,30.0,1/43,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9219eff0,JDS Neesham,Islamabad United,2,5.0,1,43,8.6,43.0,30.0,1/7,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9489623e,Asif Afridi,Lahore Qalandars,8,23.33,7,173,7.41,24.71,20.0,2/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9656afbf,Ahmed Daniyal,Peshawar Zalmi,4,15.0,6,134,8.93,22.33,15.0,3/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,99d7d5b7,Akif Javed,Multan Sultans,3,11.0,4,137,12.45,34.25,16.5,3/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9c9af282,Naseem Shah,Islamabad United,10,39.0,9,363,9.31,40.33,26.0,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9cb8d7a6,Imad Wasim,Islamabad United,11,39.0,14,278,7.13,19.86,16.71,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9de62878,Shadab Khan,Islamabad United,9,29.33,14,232,7.91,16.57,12.57,4/45,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,9e9af5f2,Mohammad Wasim,Quetta Gladiators,8,28.17,10,208,7.38,20.8,16.9,2/38,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,a4799701,Danish Aziz,Quetta Gladiators,1,1.0,0,10,10.0,,,0/10,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,a81abb8c,Mohammad Azab,Lahore Qalandars,1,2.0,0,23,11.5,,,0/23,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,a86a37ab,Mohammad Ali,Peshawar Zalmi,4,13.0,3,155,11.92,51.67,26.0,3/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,a8e54ef4,Aamer Jamal,Karachi Kings,7,18.0,5,197,10.94,39.4,21.6,1/51,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,aa8d28ae,D Wiese,Lahore Qalandars,1,1.0,0,17,17.0,,,0/17,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,abb7c76c,Abrar Ahmed,Quetta Gladiators,12,44.5,17,327,7.35,19.24,15.71,4/42,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,b0946605,AS Joseph,Peshawar Zalmi,8,30.0,12,264,8.8,22.0,15.0,3/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,b2498b5d,Saad Masood,Islamabad United,2,4.0,1,45,11.25,45.0,24.0,1/25,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,b3034790,Fawad Ali,Karachi Kings,5,12.0,2,108,9.0,54.0,36.0,1/27,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,bb4b445b,Hussain Talat,Peshawar Zalmi,6,11.83,5,122,10.31,24.4,14.2,2/39,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,bd4ea627,Faheem Ashraf,Quetta Gladiators,12,31.17,17,349,11.2,20.53,11.0,5/33,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,caf69bf7,DR Sams,Peshawar Zalmi,1,3.0,2,28,9.33,14.0,9.0,2/28,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,cb1a782a,Mir Hamza,Karachi Kings,9,31.83,10,234,7.35,23.4,19.1,2/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,cc535250,Ubaid Shah,Multan Sultans,9,31.17,12,321,10.3,26.75,15.58,3/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,d07c1b2f,Saud Shakeel,Quetta Gladiators,6,10.0,4,77,7.7,19.25,15.0,1/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,de7d833e,D Madushanka,Multan Sultans,1,4.0,0,41,10.25,,,0/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e174dadd,Mohammad Amir,Quetta Gladiators,9,30.17,13,235,7.79,18.08,13.92,3/6,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e1b9f3a9,BJ Dwarshuis,Islamabad United,7,21.0,6,216,10.29,36.0,21.0,2/31,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e35b7b91,Muhammad Naeem,Lahore Qalandars,1,3.0,1,15,5.0,15.0,18.0,1/15,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e38bce7a,MG Bracewell,Multan Sultans,7,22.0,6,226,10.27,37.67,22.0,2/37,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e5437608,GF Linde,Peshawar Zalmi,1,2.0,0,20,10.0,,,0/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e86754b2,TK Curran,Lahore Qalandars,2,7.0,2,48,6.86,24.0,21.0,1/24,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,e94d1dcd,Usman Tariq,Quetta Gladiators,5,20.0,10,159,7.95,15.9,12.0,3/32,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,eade4650,DJ Mitchell,Lahore Qalandars,5,9.5,3,96,10.11,32.0,19.0,2/9,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,f2c936d7,MJ Owen,Peshawar Zalmi,2,2.83,2,20,7.06,10.0,8.5,2/2,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,f2e8b37c,Arafat Minhas,Karachi Kings,2,4.0,0,50,12.5,,,0/26,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,f59b2121,Muhammad Shahzad,Islamabad United,4,3.5,1,43,12.29,43.0,21.0,1/4,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,fce581b5,Khushdil Shah,Karachi Kings,9,27.0,7,244,9.04,34.86,23.14,3/20,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2025,ffe699c0,CJ Jordan,Multan Sultans,4,13.33,3,159,11.92,53.0,26.67,2/41,https://cricsheet.org/downloads/psl_json.zip,derived_from_cricsheet,
+2026,0a8fce53,Mustafizur Rahman,Lahore Qalandars,5,17.0,6,122,7.18,20.33,17.0,2/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,0ad1b607,Khalil Ahmed,Quetta Gladiators,3,10.0,2,98,9.8,49.0,30.0,2/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,0d39a026,Asif Mehmood,Hyderabad Kingsmen,2,5.0,5,53,10.6,10.6,6.0,4/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,14661bf3,Faisal Akram,Multan Sultans,6,19.33,7,180,9.31,25.71,16.57,4/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,14f96089,A Zampa,Karachi Kings,7,28.0,5,216,7.71,43.2,33.6,2/11,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,17ea3bee,Momin Qamar,Multan Sultans,4,12.0,4,111,9.25,27.75,18.0,3/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,19b9f399,CJ Green,Islamabad United,9,27.0,8,183,6.78,22.88,20.25,3/19,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,22d73540,Jahandad Khan,Quetta Gladiators,5,16.33,6,161,9.86,26.83,16.33,3/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,23393635,D Forrester,Rawalpindiz,5,5.67,2,72,12.71,36.0,17.0,2/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,24bb1c2f,Haris Rauf,Lahore Qalandars,9,29.5,12,289,9.8,24.08,14.75,3/43,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,26a8b2fe,Hassan Nawaz,Quetta Gladiators,3,5.0,2,54,10.8,27.0,15.0,2/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,26d041c4,Sikandar Raza,Lahore Qalandars,10,25.0,6,238,9.52,39.67,25.0,2/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,27c5715d,Khurram Shahzad,Peshawar Zalmi,2,6.0,2,60,10.0,30.0,18.0,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,2911de16,Hasan Ali,Karachi Kings,9,34.83,15,323,9.27,21.53,13.93,4/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,29e253dd,Iftikhar Ahmed,Peshawar Zalmi,10,31.17,12,237,7.6,19.75,15.58,4/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,2cec2a92,Abbas Afridi,Karachi Kings,8,22.33,8,251,11.24,31.38,16.75,2/55,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,3086f7a4,Mohammad Nawaz,Multan Sultans,9,20.0,6,233,11.65,38.83,20.0,3/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,30a45b23,SPD Smith,Multan Sultans,1,1.0,1,14,14.0,14.0,6.0,1/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,30afc92b,Salman Irshad,Islamabad United,6,19.17,6,194,10.12,32.33,19.17,2/52,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,33609a8c,Saim Ayub,Hyderabad Kingsmen,12,40.0,6,331,8.28,55.17,40.0,2/43,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,35f4cf7e,Kamran Ghulam,Rawalpindiz,1,1.0,0,7,7.0,,,0/7,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,373838de,Mehran Mumtaz,Islamabad United,1,1.0,0,10,10.0,,,0/10,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,3b8679bf,Hunain Shah,Hyderabad Kingsmen,10,36.5,17,313,8.58,18.41,12.88,4/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,3cbef804,Mohammad Basit,Peshawar Zalmi,6,22.17,10,172,7.76,17.2,13.3,3/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,402f8494,RJ Gleeson,Islamabad United,9,31.67,12,226,7.14,18.83,15.83,3/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,4277234d,Sufiyan Muqeem,Peshawar Zalmi,11,44.0,22,317,7.2,14.41,12.0,4/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,45a7e761,Shaheen Shah Afridi,Lahore Qalandars,10,37.0,16,291,7.86,18.19,13.88,4/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,486065b3,Hassan Khan,Hyderabad Kingsmen,12,34.0,6,291,8.56,48.5,34.0,2/30,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,5318ee68,Nahid Rana,Peshawar Zalmi,5,18.0,9,98,5.44,10.89,12.0,3/7,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,53834b36,Ali Raza,Peshawar Zalmi,5,17.17,10,168,9.79,16.8,10.3,4/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,5935d694,Rishad Hossain,Rawalpindiz,4,14.0,2,155,11.07,77.5,42.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,62fd0c5e,Sameer Minhas,Islamabad United,1,1.0,0,9,9.0,,,0/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,64775749,RP Meredith,Hyderabad Kingsmen,3,11.0,5,117,10.64,23.4,13.2,3/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,65a2fff5,Mohammad Imran,Multan Sultans,5,17.0,3,150,8.82,50.0,34.0,1/48,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,6d9560f3,Maaz Sadaqat,Hyderabad Kingsmen,2,3.0,0,26,8.67,,,0/16,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,6dd8b88c,Usama Mir,Lahore Qalandars,6,21.0,4,155,7.38,38.75,31.5,2/29,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,7264b765,Mubasir Khan,Rawalpindiz,2,5.5,1,53,9.64,53.0,33.0,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,72f03be4,Mohammad Amir Khan,Rawalpindiz,3,10.0,1,112,11.2,112.0,60.0,1/44,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,732c038e,KIC Asalanka,Lahore Qalandars,2,3.0,0,26,8.67,,,0/17,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,736123bb,DN Wellalage,Lahore Qalandars,1,4.0,0,40,10.0,,,0/40,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,74644db4,Saqib Khan,Quetta Gladiators,2,5.0,1,44,8.8,44.0,30.0,1/22,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,7ab1eab7,Salman Mirza,Islamabad United,6,20.0,3,237,11.85,79.0,40.0,1/53,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,8596fe80,Mohammad Hasnain,Islamabad United,2,5.17,1,47,9.1,47.0,31.0,1/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,89c16049,Agha Salman,Karachi Kings,6,11.0,3,94,8.55,31.33,22.0,1/25,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,8d964ae6,Shahid Aziz,Karachi Kings,3,3.0,0,24,8.0,,,0/13,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,91b35a29,Razaullah,Rawalpindiz,2,6.67,3,83,12.45,27.67,13.33,2/45,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,93f25f4f,BR Hampton,Quetta Gladiators,1,2.0,1,32,16.0,32.0,12.0,1/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9489623e,Asif Afridi,Rawalpindiz,8,26.17,7,214,8.18,30.57,22.43,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9656afbf,Ahmed Daniyal,Quetta Gladiators,3,11.33,5,91,8.03,18.2,13.6,3/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,99d7d5b7,Akif Javed,Hyderabad Kingsmen,8,26.0,12,236,9.08,19.67,13.0,3/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9c9af282,Naseem Shah,Rawalpindiz,3,8.33,2,86,10.32,43.0,25.0,1/26,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9cb8d7a6,Imad Wasim,Islamabad United,11,40.83,12,309,7.57,25.75,20.42,3/21,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9de62878,Shadab Khan,Islamabad United,10,35.0,17,246,7.03,14.47,12.35,3/42,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9e9af5f2,Mohammad Wasim,Multan Sultans,10,33.33,7,366,10.98,52.29,28.57,2/42,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,9ff6a1ba,Jalat Khan,Rawalpindiz,1,3.0,1,38,12.67,38.0,18.0,1/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,a86a37ab,Mohammad Ali,Hyderabad Kingsmen,12,45.33,20,379,8.36,18.95,13.6,3/38,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,a8e54ef4,Aamer Jamal,Peshawar Zalmi,5,11.33,4,117,10.32,29.25,17.0,1/43,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,a90fd86c,Shehzad Gul,Multan Sultans,2,7.0,0,78,11.14,,,0/60,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,abb7c76c,Abrar Ahmed,Quetta Gladiators,10,39.0,9,331,8.49,36.78,26.0,3/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,b08252b8,RP Burl,Lahore Qalandars,2,1.33,0,22,16.5,,,0/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,b0946605,AS Joseph,Quetta Gladiators,9,33.5,8,326,9.73,40.75,25.12,2/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,b2498b5d,Saad Masood,Rawalpindiz,6,22.0,6,168,7.64,28.0,22.0,2/34,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,b681e71e,GJ Maxwell,Hyderabad Kingsmen,6,16.0,5,135,8.44,27.0,19.2,1/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,ba158afd,Zahid Mahmood,Karachi Kings,3,11.0,0,90,8.18,,,0/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,bb34fd31,Shoriful Islam,Peshawar Zalmi,5,15.0,2,119,7.93,59.5,45.0,1/23,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,bb351c23,MM Ali,Karachi Kings,10,28.0,8,245,8.75,30.62,21.0,2/31,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,bd4ea627,Faheem Ashraf,Islamabad United,10,28.5,9,249,8.74,27.67,19.0,2/33,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,bd93fea4,PM Siddle,Multan Sultans,11,40.0,13,355,8.88,27.31,18.46,3/39,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,c22b76a3,Rizwanullah,Karachi Kings,2,6.67,3,69,10.35,23.0,13.33,2/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,c290033d,Ihsanullah,Karachi Kings,1,2.0,0,28,14.0,,,0/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,c6a1b1bb,Amad Butt,Rawalpindiz,2,8.0,3,93,11.62,31.0,16.0,2/45,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,caf69bf7,DR Sams,Lahore Qalandars,5,15.0,2,158,10.53,79.0,45.0,1/48,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,cb1a782a,Mir Hamza,Karachi Kings,6,20.0,3,220,11.0,73.33,40.0,2/14,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,cc535250,Ubaid Shah,Lahore Qalandars,8,25.0,8,228,9.12,28.5,18.75,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,cd5be077,Mohammad Hamza,Karachi Kings,2,7.0,0,79,11.29,,,0/49,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,d07c1b2f,Saud Shakeel,Quetta Gladiators,7,12.0,5,99,8.25,19.8,14.4,2/4,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,d285acaf,CE McConchie,Rawalpindiz,3,7.67,0,83,10.83,,,0/37,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,d405c0d5,AM Hardie,Peshawar Zalmi,6,19.0,11,141,7.42,12.82,10.36,4/27,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e174dadd,Mohammad Amir,Rawalpindiz,10,37.0,12,326,8.81,27.17,18.5,2/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e1891e00,BV Sears,Rawalpindiz,4,15.0,5,147,9.8,29.4,18.0,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e38bce7a,MG Bracewell,Peshawar Zalmi,9,22.0,5,204,9.27,40.8,26.4,3/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e86754b2,TK Curran,Quetta Gladiators,5,12.0,0,132,11.0,,,0/39,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e93f608d,Kashif Bhatti,Quetta Gladiators,1,4.0,1,36,9.0,36.0,24.0,1/36,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,e94d1dcd,Usman Tariq,Quetta Gladiators,10,40.0,9,302,7.55,33.56,26.67,3/18,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,eade4650,DJ Mitchell,Rawalpindiz,6,14.33,4,150,10.47,37.5,21.5,3/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,f24c6701,M Theekshana,Hyderabad Kingsmen,3,12.0,4,98,8.17,24.5,18.0,2/24,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,f2e8b37c,Arafat Minhas,Multan Sultans,9,26.0,9,225,8.65,25.0,17.33,3/32,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,f98481d3,Muhammad Ismail,Multan Sultans,7,17.5,10,195,11.14,19.5,10.5,3/41,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,fa433be6,M Labuschagne,Hyderabad Kingsmen,5,9.0,1,101,11.22,101.0,54.0,1/9,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,fce581b5,Khushdil Shah,Karachi Kings,7,20.17,8,195,9.67,24.38,15.12,3/35,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.
+2026,ff1e12a0,AJ Turner,Multan Sultans,7,13.0,3,106,8.15,35.33,26.0,1/28,https://cricsheet.org/downloads/psl_json.zip,partial_season_archive_coverage,Cricsheet archive has 43 records versus the official 44-match tournament total; unmatched record status unresolved.

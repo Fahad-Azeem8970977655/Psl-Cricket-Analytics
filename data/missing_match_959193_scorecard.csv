@@ -1,0 +1,18 @@
+match_id,innings,team,player,dismissal,runs,balls,fours,sixes,strike_rate,source_url
+959193,1,Peshawar Zalmi,Tamim Iqbal,c Lendl Simmons b Ravi Bopara,37,35,3,0,105.71,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,1,Peshawar Zalmi,Mohammad Hafeez,lbw b Ravi Bopara,59,35,7,3,168.57,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,1,Peshawar Zalmi,Kamran Akmal,c James Vince b Mohammad Amir,30,20,2,2,150.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,1,Peshawar Zalmi,Dawid Malan,c Imad Wasim b Sohail Tanvir,12,12,1,0,100.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,1,Peshawar Zalmi,Shahid Afridi,not out,17,9,1,1,188.89,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,1,Peshawar Zalmi,Darren Sammy,not out,18,10,1,2,180.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Lendl Simmons,b Wahab Riaz,9,12,1,0,75.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Nauman Anwar,run out (Shahid Yousuf),14,16,3,0,87.50,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,James Vince,b Shaun Tait,44,28,5,1,157.14,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Imad Wasim,run out (Shahid Yousuf/Mohammad Asghar),0,2,0,0,0.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Shoaib Malik,c Darren Sammy b Mohammad Asghar,8,7,0,1,114.29,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Shakib Al Hasan,c Mohammad Asghar b Shahid Afridi,1,4,0,0,25.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Ravi Bopara,c Shahid Yousuf b Darren Sammy,67,33,5,4,203.03,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Sohail Tanvir,b Wahab Riaz,23,17,2,2,135.29,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Usama Mir,run out (Kamran Akmal),1,1,0,0,100.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Saifullah Bangash,not out,0,1,0,0,0.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
+959193,2,Karachi Kings,Mohammad Amir,not out,0,1,0,0,0.00,https://www.pcb.com.pk/hbl-pakistan-super-league-2016/match/28440.html
