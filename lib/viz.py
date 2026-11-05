@@ -73,18 +73,21 @@ def field_figure(c: dict, title: str = "", height: int = 640) -> go.Figure:
 
     # Everything run between the wickets is far too small to label inside the 30-yard circle,
     # so it is written under the ground and joined to the circle by a dotted line.
+    pc = lambda x: f"{x:.0f}%" if x >= 1 else f"{x:.1f}%"
+    dot_share = 100 * c["dots"] / max(c["balls"], 1)
     fig.add_shape(type="line", x0=0, x1=0, y0=-0.41, y1=-1.30, line=dict(color="rgba(31,107,69,0.85)", width=1.5, dash="dot"))
     _label(fig, 0, -1.31,
-           f"Run between the wickets: {run_share:.0f}% of runs<br>"
-           f"Singles {n(c['singles'])}  \u00b7  Twos {n(c['twos'])}  \u00b7  Threes {n(c['threes'])}<br>"
-           f"Dots (no run) {n(c['dots'])}",
+           f"<b>Run between the wickets: {pc(run_share)} of runs</b><br>"
+           f"Singles {n(c['singles'])} ({pc(100 * sh(c['singles']))} of runs)<br>"
+           f"Twos {n(c['twos'])} ({pc(100 * sh(2 * c['twos']))})  \u00b7  Threes {n(c['threes'])} ({pc(100 * sh(3 * c['threes']))})<br>"
+           f"Dots (no run) {n(c['dots'])} ({pc(dot_share)} of balls)",
            size=fs, bold=False, color="#164D32", bg="rgba(255,255,255,0.92)", yanchor="top")
     if not compact:
         _label(fig, 0.66, 0.02, "30-yard circle", size=10, bg="rgba(255,255,255,0)", color="#164D32")
         _label(fig, 0.80, -0.60, "boundary rope", size=10, bg="rgba(255,255,255,0.7)", color="#7a5a14")
 
     fig.update_xaxes(visible=False, range=[-1.45, 1.45])
-    fig.update_yaxes(visible=False, range=[-1.95, 1.5], scaleanchor="x")
+    fig.update_yaxes(visible=False, range=[-2.25, 1.5], scaleanchor="x")
     fig.update_layout(title=dict(text=title, x=0.01, font=dict(size=22, family=HEAD_FONT)), height=height,
                       margin=dict(l=0, r=0, t=46 if title else 6, b=0), paper_bgcolor="rgba(0,0,0,0)",
                       plot_bgcolor="rgba(0,0,0,0)", showlegend=False)
