@@ -55,10 +55,20 @@ def render():
             ui.kpis([("Fours", c["fours"]), ("Sixes", c["sixes"]), ("Singles", c["singles"])])
             ui.kpis([("Dot %", f"{s.dot_pct:.0f}%"), ("Boundary %", f"{s.boundary_pct:.0f}%"), ("Runs in boundaries", f"{s.boundary_runs_pct:.0f}%")])
             ui.show(viz.field_figure(c, title=name), key=f"field_{name}")
-            mix = pd.DataFrame({"outcome": ["Dots", "Singles", "Twos", "Threes", "Fours", "Sixes"],
-                                "balls": [c["dots"], c["singles"], c["twos"], c["threes"], c["fours"], c["sixes"]]})
-            ui.show(px.bar(mix, x="outcome", y="balls", text="balls", title="Balls by outcome",
-                           color="outcome", color_discrete_sequence=px.colors.sequential.Greens_r), key=f"mix_{name}")
+            runs_by = {"Dots": 0, "Singles": c["singles"], "Twos": 2 * c["twos"], "Threes": 3 * c["threes"],
+                       "Fours": 4 * c["fours"], "Sixes": 6 * c["sixes"]}
+            balls_by = {"Dots": c["dots"], "Singles": c["singles"], "Twos": c["twos"], "Threes": c["threes"],
+                        "Fours": c["fours"], "Sixes": c["sixes"]}
+            mix = pd.DataFrame({"Outcome": list(balls_by), "Balls": list(balls_by.values()), "Runs": list(runs_by.values())})
+            mix["% of balls"] = 100 * mix.Balls / max(mix.Balls.sum(), 1)
+            mix["% of runs"] = 100 * mix.Runs / max(c["runs"], 1)
+            st.markdown("**Where the balls and the runs go**")
+            ui.table(mix.assign(**{"% of balls": mix["% of balls"].round(1), "% of runs": mix["% of runs"].round(1)}))
+            long = mix.melt("Outcome", value_vars=["% of balls", "% of runs"], var_name="Share", value_name="pct")
+            fig = px.bar(long, x="Outcome", y="pct", color="Share", barmode="group", text=long.pct.round(1),
+                         title="Share of balls vs share of runs", color_discrete_sequence=["#8A8F98", "#1F6B45"])
+            fig.update_yaxes(title="%")
+            ui.show(fig, key=f"mix_{name}")
     st.caption(viz.FIELD_CAPTION)
 
     name0, df0 = subsets[0]
@@ -95,4 +105,3 @@ def render():
                              "League": [ref.sr, ref.boundary_pct, ref.dot_pct, ref.balls_per_boundary]})
         ui.show(px.bar(cmp_.melt("measure", var_name="who", value_name="value"), x="measure", y="value", color="who", barmode="group",
                        title="Against the league average (same filters)", color_discrete_sequence=["#1F6B45", "#C9962E"]))
-
