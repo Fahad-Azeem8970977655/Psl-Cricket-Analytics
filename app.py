@@ -25,6 +25,7 @@ pages = {
         st.Page("pages/p09_bowling_fielding.py", title="Bowling & fielding", icon="🌀"),
         st.Page("pages/p10_matchups.py", title="Batter vs bowler", icon="⚔️"),
         st.Page("pages/p11_impact.py", title="Player impact ratings", icon="📊"),
+        st.Page("pages/p16_match_impact.py", title="Match impact score", icon="⭐"),
         st.Page("pages/p12_clusters_anomalies.py", title="Clusters, similar players & anomalies", icon="🧬"),
     ],
     "Machine learning & honesty": [

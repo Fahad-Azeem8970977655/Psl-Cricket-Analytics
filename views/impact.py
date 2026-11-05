@@ -46,4 +46,3 @@ def render():
     - It does not know the batting position, the opposition, the pitch or who was bowling at the other end.
     - The wicket value is a judgement; move the slider to see how rankings change.
     """)
-
