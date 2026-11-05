@@ -28,8 +28,8 @@ def _stripes(fig, radius=1.22, bands=14, alpha=0.055):
                                  fillcolor=f"rgba(0,0,0,{alpha})", hoverinfo="skip", showlegend=False))
 
 
-def _label(fig, x, y, text, size=13, color=INK, bg="rgba(255,255,255,0.86)", bold=False):
-    fig.add_annotation(x=x, y=y, text=f"<b>{text}</b>" if bold else text, showarrow=False,
+def _label(fig, x, y, text, size=13, color=INK, bg="rgba(255,255,255,0.86)", bold=False, yanchor="middle"):
+    fig.add_annotation(x=x, y=y, text=f"<b>{text}</b>" if bold else text, showarrow=False, yanchor=yanchor,
                        font=dict(size=size, color=color), bgcolor=bg, borderpad=3, align="center")
 
 
@@ -60,18 +60,31 @@ def field_figure(c: dict, title: str = "", height: int = 640) -> go.Figure:
         for x in (-0.018, 0, 0.018):
             fig.add_shape(type="line", x0=x, x1=x, y0=y - 0.012, y1=y + 0.012, line=dict(color="#3b2f1c", width=2))
 
-    _label(fig, 0, 1.15, f"Sixes {c['sixes']}  ({six_runs} runs, {100 * sh(six_runs):.0f}%)", bold=True)
-    _label(fig, 0, 0.72, f"Fours {c['fours']}  ({four_runs} runs, {100 * sh(four_runs):.0f}%)", bold=True)
-    _label(fig, -0.22, 0.04, f"Singles<br>{c['singles']}", size=13, bold=True)
-    _label(fig, 0.23, 0.04, f"Twos {c['twos']}<br>Threes {c['threes']}", size=12, bold=True)
-    _label(fig, 0, -0.01, f"Dots<br>{c['dots']}", size=10, bg="rgba(255,255,255,0.0)", color="#3b2f1c")
-    _label(fig, 0, 0.30, "bowler's end", size=10, bg="rgba(255,255,255,0)", color="#3b2f1c")
-    _label(fig, 0, -0.30, "batter's end", size=10, bg="rgba(255,255,255,0)", color="#3b2f1c")
-    _label(fig, 0.64, 0.0, "30-yard circle", size=10, bg="rgba(255,255,255,0)", color="#164D32")
-    _label(fig, 0.80, -0.60, "boundary rope", size=10, bg="rgba(255,255,255,0.7)", color="#7a5a14")
+    compact = height < 520                      # small ground (overview): fewer, smaller labels
+    fs = 11 if compact else 13
+    n = lambda v: f"{int(v):,}"
+    run_share = 100 * sh(run_runs)
 
-    fig.update_xaxes(visible=False, range=[-1.3, 1.3])
-    fig.update_yaxes(visible=False, range=[-1.3, 1.3], scaleanchor="x")
+    # Sixes sit just outside the rope, fours in the outer band; both are coloured like their zone.
+    _label(fig, 0, 1.33, f"Sixes {n(c['sixes'])} ({100 * sh(six_runs):.0f}% of runs)", size=fs, bold=True,
+           color="#A8242B", bg="rgba(255,255,255,0.92)")
+    _label(fig, 0, 0.70, f"Fours {n(c['fours'])} ({100 * sh(four_runs):.0f}%)", size=fs, bold=True,
+           color="#7a5a14", bg="rgba(255,255,255,0.88)")
+
+    # Everything run between the wickets is far too small to label inside the 30-yard circle,
+    # so it is written under the ground and joined to the circle by a dotted line.
+    fig.add_shape(type="line", x0=0, x1=0, y0=-0.41, y1=-1.30, line=dict(color="rgba(31,107,69,0.85)", width=1.5, dash="dot"))
+    _label(fig, 0, -1.31,
+           f"Run between the wickets: {run_share:.0f}% of runs<br>"
+           f"Singles {n(c['singles'])}  \u00b7  Twos {n(c['twos'])}  \u00b7  Threes {n(c['threes'])}<br>"
+           f"Dots (no run) {n(c['dots'])}",
+           size=fs, bold=False, color="#164D32", bg="rgba(255,255,255,0.92)", yanchor="top")
+    if not compact:
+        _label(fig, 0.66, 0.02, "30-yard circle", size=10, bg="rgba(255,255,255,0)", color="#164D32")
+        _label(fig, 0.80, -0.60, "boundary rope", size=10, bg="rgba(255,255,255,0.7)", color="#7a5a14")
+
+    fig.update_xaxes(visible=False, range=[-1.45, 1.45])
+    fig.update_yaxes(visible=False, range=[-1.95, 1.5], scaleanchor="x")
     fig.update_layout(title=dict(text=title, x=0.01, font=dict(size=22, family=HEAD_FONT)), height=height,
                       margin=dict(l=0, r=0, t=46 if title else 6, b=0), paper_bgcolor="rgba(0,0,0,0)",
                       plot_bgcolor="rgba(0,0,0,0)", showlegend=False)
