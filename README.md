@@ -39,6 +39,9 @@ Designed around cricket's own visual language rather than a generic dashboard ki
 ## Derived file
 `data/player_impact.csv` (7,951 rows, one per player per match) is built by `python build_player_impact.py` from `lib/impact_match.py` with default weights. It also uses two Cricbuzz-sourced files, `data/runout_fielders_cricbuzz.csv` (fielders for run-outs Cricsheet leaves blank) and `data/wicketkeepers_cricbuzz.csv`, resolved to dashboard names by `lib/runout_fix.py`. The dashboard recomputes it live from the sliders; the file is a snapshot for use elsewhere.
 
+## Wagon wheel
+`data/shot_locations.csv` (54,742 tracked shots, Cricinfo shot tracking) is built by `python build_shot_locations.py <path to PSL_2016_2026_Shot_Location_Data.csv>`. Coordinates are mirrored for left-handers, 8 equal 45-degree sectors. Coverage: none for 2016-17, ~13% for 2019, 80-85% for 2018 and 2020-26 (about 99% of balls that scored, ~57% of dot balls, so no dot-ball percentages are shown).
+
 ## Limits you should know
 - **No shot direction in the data**, so the scoring-zone graphic is by *run type*, not a wagon wheel.
 - Pre-match prediction is close to a coin flip, and the Luck vs skill page shows why (about 80% of the spread in league win rates is what luck alone produces).

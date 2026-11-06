@@ -21,6 +21,7 @@ pages = {
     ],
     "Players": [
         st.Page("pages/p07_batter_zones.py", title="Batter scoring zones (pitch)", icon="🎯"),
+        st.Page("pages/p17_wagon_wheel.py", title="Wagon wheel (shot map)", icon="🧭"),
         st.Page("pages/p08_partnerships_order.py", title="Partnerships & batting order", icon="🤝"),
         st.Page("pages/p09_bowling_fielding.py", title="Bowling & fielding", icon="🌀"),
         st.Page("pages/p10_matchups.py", title="Batter vs bowler", icon="⚔️"),
